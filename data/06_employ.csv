@@ -1,0 +1,51 @@
+employ_id,first_name,last_name,birth_date,phone,email,address,hire_date,status,type_document_id,document_number,experience_years,specially
+1,Andrés,Delgado,1992-08-13,6077356088,andres.delgado1@correo.com.co,"Avenida 40 # 6-86, Atalaya, Los Patios",2019-09-09,1,1,1319262767,13,Armado
+2,Claudia,Mendoza,1980-01-22,6070417913,claudia.mendoza2@correo.com.co,"Diagonal 34 # 11-11, Popular, Cúcuta",2024-09-16,1,1,1734449397,9,Armado
+3,Felipe,Becerra,2003-08-26,3129783866,felipe.becerra3@correo.com.co,"Calle 1 # 27-55, Atalaya, Cúcuta",2023-02-24,1,1,691383444,5,Monitoreo CCTV
+4,Andrés,Ibarra,1990-10-18,6078471404,andres.ibarra4@correo.com.co,"Calle 26 # 24-26, Belén, Los Patios",2021-05-04,1,1,1876250763,14,Monitoreo CCTV
+5,Felipe,Jaimes,1980-02-04,6073092337,felipe.jaimes5@correo.com.co,"Avenida 35 # 30-99, Caobos, Villa del Rosario",2024-05-15,0,1,556458459,5,Monitoreo CCTV
+6,Felipe,Maldonado,2003-11-04,6076416579,felipe.maldonado6@correo.com.co,"Carrera 10 # 21-14, San Luis, Los Patios",2023-04-23,1,1,816491923,5,Control de acceso
+7,Yesenia,Ortega,1989-02-19,6073610255,yesenia.ortega7@correo.com.co,"Calle 36 # 5-19, La Riviera, Cúcuta",2020-10-29,0,1,1000595110,10,Supervisor
+8,Diana,Ortega,1988-07-27,3261625365,diana.ortega8@correo.com.co,"Diagonal 3 # 4-13, La Riviera, Cúcuta",2023-08-15,1,1,1135020799,7,Rondero
+9,Adriana,Navarro,1989-03-23,3125414294,adriana.navarro9@correo.com.co,"Diagonal 20 # 25-66, Popular, Cúcuta",2018-08-27,1,3,3276593,12,Control de acceso
+10,Luis,Peñaranda,1991-12-25,6078160315,luis.penaranda10@correo.com.co,"Diagonal 38 # 6-30, Latino, Cúcuta",2021-09-07,1,1,1901971678,7,Monitoreo CCTV
+11,María,Hernández,1997-12-14,6074950268,maria.hernandez11@correo.com.co,"Calle 24 # 27-24, La Riviera, Los Patios",2022-12-05,1,1,79491952,6,Supervisor
+12,Carlos,Ibarra,1977-08-20,3019097905,carlos.ibarra12@correo.com.co,"Avenida 17 # 27-61, La Riviera, Cúcuta",2023-11-21,1,1,419520296,5,Rondero
+13,Gloria,Quintero,1979-12-27,6070764182,gloria.quintero13@correo.com.co,"Carrera 22 # 24-38, Quinta Oriental, Cúcuta",2019-10-04,1,2,3155324,15,Control de acceso
+14,Luis,Arévalo,2000-11-15,3282261132,luis.arevalo14@correo.com.co,"Carrera 6 # 4-13, Prados del Norte, Cúcuta",2022-06-06,1,1,267607120,5,Rondero
+15,Sandra,Torres,1996-12-07,6075913161,sandra.torres15@correo.com.co,"Calle 9 # 21-22, San Luis, Cúcuta",2020-02-01,1,1,1059932257,11,Escolta
+16,Adriana,Cáceres,1986-03-09,6073305960,adriana.caceres16@correo.com.co,"Avenida 35 # 19-11, Latino, Los Patios",2018-08-23,1,1,1819959314,15,Monitoreo CCTV
+17,Sandra,Delgado,1992-09-30,3090492916,sandra.delgado17@correo.com.co,"Avenida 28 # 10-60, Caobos, Villa del Rosario",2018-11-05,1,1,1160189057,15,Monitoreo CCTV
+18,Camilo,Montañez,1997-04-28,6070847517,camilo.montanez18@correo.com.co,"Calle 38 # 6-27, Centro, Cúcuta",2021-12-11,1,1,415826805,9,Supervisor
+19,Rosa,Villamizar,2004-03-23,3194900270,rosa.villamizar19@correo.com.co,"Calle 19 # 29-8, Prados del Norte, Los Patios",2026-03-19,1,1,1080827632,0,Armado
+20,Diana,Duarte,1976-01-07,6079089988,diana.duarte20@correo.com.co,"Avenida 15 # 27-27, Belén, Cúcuta",2025-06-10,1,1,603725777,8,Rondero
+21,Daniel,Bayona,1978-07-28,6075046403,daniel.bayona21@correo.com.co,"Diagonal 37 # 13-64, Belén, Los Patios",2026-03-31,1,1,84684013,10,Armado
+22,Edwin,Duarte,1978-10-20,3045550787,edwin.duarte22@correo.com.co,"Diagonal 2 # 30-48, Latino, Villa del Rosario",2022-09-26,1,1,546134717,4,Rondero
+23,Ana,Mora,1979-05-02,6077082090,ana.mora23@correo.com.co,"Calle 37 # 23-94, Popular, Cúcuta",2019-06-05,1,1,1771076789,17,Rondero
+24,Yesenia,Quintero,1986-05-22,3143714373,yesenia.quintero24@correo.com.co,"Diagonal 17 # 3-20, Prados del Norte, Cúcuta",2024-04-28,1,1,1271475971,10,Monitoreo CCTV
+25,Jhon,Solano,1994-09-16,3141514955,jhon.solano25@correo.com.co,"Carrera 7 # 23-23, Latino, Cúcuta",2024-01-04,0,1,148421550,8,Monitoreo CCTV
+26,Viviana,Ascanio,2002-03-19,3174434293,viviana.ascanio26@correo.com.co,"Calle 36 # 7-19, Prados del Norte, Cúcuta",2023-11-06,1,1,1921395327,6,Rondero
+27,Nelson,León,1997-11-24,6077528790,nelson.leon27@correo.com.co,"Carrera 19 # 3-8, Belén, Los Patios",2019-11-26,1,1,1336262513,10,Control de acceso
+28,Diana,León,1985-12-26,3012241251,diana.leon28@correo.com.co,"Carrera 18 # 11-1, San Luis, Cúcuta",2021-05-22,1,1,1105440825,10,Supervisor
+29,Jhon,Mendoza,2003-03-20,3017924115,jhon.mendoza29@correo.com.co,"Carrera 29 # 9-59, Belén, Cúcuta",2023-05-04,1,1,857132142,5,Vigilancia canina
+30,Edwin,Contreras,1987-05-16,3194947661,edwin.contreras30@correo.com.co,"Avenida 8 # 17-6, Belén, Villa del Rosario",2025-11-02,0,1,1152276430,11,Supervisor
+31,Jhon,Navarro,2002-02-01,3109347649,jhon.navarro31@correo.com.co,"Calle 8 # 18-47, Quinta Oriental, Los Patios",2025-10-05,1,1,1882030747,1,Control de acceso
+32,Johana,Pabón,2000-10-04,3052829225,johana.pabon32@correo.com.co,"Diagonal 8 # 11-36, San Luis, Cúcuta",2025-06-06,1,1,333835209,8,Supervisor
+33,Gloria,Bayona,1988-02-24,3133931679,gloria.bayona33@correo.com.co,"Calle 21 # 23-23, Atalaya, Los Patios",2019-11-04,1,1,901470437,16,Monitoreo CCTV
+34,Laura,Pérez,1981-07-27,3013484031,laura.perez34@correo.com.co,"Calle 31 # 1-76, San Luis, Cúcuta",2021-07-01,1,1,77481813,15,Supervisor
+35,Yesenia,Peñaranda,1979-03-31,6071792607,yesenia.penaranda35@correo.com.co,"Avenida 16 # 9-24, Prados del Norte, Los Patios",2018-10-17,1,1,1838969271,13,Control de acceso
+36,Laura,Solano,1991-04-07,3079648860,laura.solano36@correo.com.co,"Calle 16 # 1-56, Latino, Cúcuta",2024-07-14,1,1,1690344133,3,Vigilancia canina
+37,Marcela,Duarte,1992-02-02,3206981205,marcela.duarte37@correo.com.co,"Calle 20 # 3-46, Quinta Oriental, Cúcuta",2019-06-06,0,1,1597769170,8,Armado
+38,Héctor,Peñaranda,2003-12-02,3135863558,hector.penaranda38@correo.com.co,"Avenida 4 # 30-49, Caobos, Cúcuta",2026-02-25,1,1,1263546340,0,Supervisor
+39,Daniel,Ortega,1989-12-11,3204245114,daniel.ortega39@correo.com.co,"Carrera 35 # 19-75, San Luis, Cúcuta",2025-10-23,1,1,805414583,6,Supervisor
+40,Esperanza,Ortega,1999-02-13,6071264570,esperanza.ortega40@correo.com.co,"Calle 3 # 14-45, Prados del Norte, Cúcuta",2025-04-08,1,1,398633915,4,Rondero
+41,Héctor,Montañez,2001-03-19,6070569703,hector.montanez41@correo.com.co,"Calle 23 # 24-57, Centro, Cúcuta",2020-08-17,1,1,303475789,7,Supervisor
+42,Gloria,León,1999-05-13,6077159214,gloria.leon42@correo.com.co,"Diagonal 36 # 3-44, Prados del Norte, Cúcuta",2025-02-12,1,1,1124177493,8,Escolta
+43,Liliana,Cárdenas,2004-09-18,6072769141,liliana.cardenas43@correo.com.co,"Carrera 39 # 19-24, Belén, Cúcuta",2026-03-02,1,3,4128027,0,Supervisor
+44,Adriana,Ortega,2000-01-23,3175939371,adriana.ortega44@correo.com.co,"Avenida 34 # 28-63, San Luis, Cúcuta",2026-03-19,1,1,667236297,5,Control de acceso
+45,Laura,Villamizar,1987-05-26,6077625718,laura.villamizar45@correo.com.co,"Calle 13 # 25-74, San Luis, Los Patios",2020-12-29,1,3,3824360,8,Escolta
+46,Héctor,Mendoza,2000-08-09,6078931054,hector.mendoza46@correo.com.co,"Carrera 10 # 4-93, Belén, Los Patios",2023-08-30,1,1,1800314949,7,Control de acceso
+47,Jhon,Delgado,1982-12-09,3292094373,jhon.delgado47@correo.com.co,"Calle 34 # 4-71, Latino, Cúcuta",2025-02-25,1,2,5224333,11,Control de acceso
+48,Sergio,Ortega,1978-01-28,3261374324,sergio.ortega48@correo.com.co,"Calle 32 # 22-80, San Luis, Villa del Rosario",2024-03-01,1,1,82630353,11,Monitoreo CCTV
+49,Héctor,Torres,1995-07-20,3223943780,hector.torres49@correo.com.co,"Carrera 30 # 5-89, Caobos, Cúcuta",2022-08-24,1,1,986875876,13,Armado
+50,Pedro,Cáceres,1978-11-28,6078351033,pedro.caceres50@correo.com.co,"Carrera 21 # 14-35, La Riviera, Cúcuta",2018-04-28,1,1,900979447,18,Vigilancia canina

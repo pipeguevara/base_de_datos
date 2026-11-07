@@ -1,0 +1,101 @@
+location_id,contract_contract_id,name,address,latitude,longitude
+1,1,Zona de descargue,"Diagonal 27 # 20-68, Belén, Cúcuta",7.856104,-72.506368
+2,1,Torre A,"Avenida 23 # 11-85, Caobos, Los Patios",7.944213,-72.503306
+3,2,Zona de descargue,"Carrera 40 # 30-43, La Riviera, Cúcuta",7.919781,-72.531265
+4,2,Recepción,"Avenida 7 # 24-82, Popular, Cúcuta",7.901687,-72.486051
+5,3,Portería principal,"Diagonal 8 # 20-86, La Riviera, Villa del Rosario",7.856468,-72.531283
+6,3,Parqueadero,"Diagonal 19 # 26-14, Belén, Los Patios",7.928203,-72.484266
+7,4,Parqueadero,"Calle 11 # 25-72, Belén, Cúcuta",7.934645,-72.462936
+8,4,Recepción,"Carrera 22 # 11-24, Centro, Cúcuta",7.916736,-72.481998
+9,5,Sede norte,"Diagonal 5 # 12-56, Latino, Villa del Rosario",7.881939,-72.514307
+10,5,Bodega de carga,"Calle 35 # 23-96, Atalaya, Cúcuta",7.934530,-72.526080
+11,6,Portería vehicular,"Diagonal 4 # 3-30, Quinta Oriental, Cúcuta",7.931783,-72.554441
+12,6,Recepción,"Carrera 15 # 20-83, Prados del Norte, Cúcuta",7.911895,-72.530989
+13,7,Sede sur,"Avenida 35 # 17-95, Belén, Villa del Rosario",7.873591,-72.489572
+14,7,Portería vehicular,"Avenida 5 # 22-96, Latino, Cúcuta",7.885800,-72.550221
+15,8,Portería principal,"Carrera 37 # 8-52, Atalaya, Los Patios",7.871956,-72.526746
+16,8,Parqueadero,"Diagonal 37 # 13-15, Centro, Los Patios",7.937688,-72.510070
+17,9,Portería vehicular,"Calle 17 # 25-74, San Luis, Cúcuta",7.945264,-72.511152
+18,9,Bloque administrativo,"Calle 19 # 13-80, Atalaya, Cúcuta",7.864964,-72.554360
+19,10,Zona de descargue,"Calle 30 # 6-29, Atalaya, Los Patios",7.860226,-72.545573
+20,10,Recepción,"Avenida 6 # 20-3, Prados del Norte, Cúcuta",7.897926,-72.551517
+21,11,Parqueadero,"Avenida 1 # 18-43, Latino, Cúcuta",7.868545,-72.523086
+22,11,Sede norte,"Avenida 9 # 29-98, Prados del Norte, Los Patios",7.946199,-72.502477
+23,12,Bloque administrativo,"Calle 7 # 24-31, Atalaya, Villa del Rosario",7.895077,-72.474113
+24,12,Parqueadero,"Calle 40 # 3-25, Quinta Oriental, Cúcuta",7.932874,-72.502671
+25,13,Bloque administrativo,"Diagonal 29 # 19-41, Belén, Cúcuta",7.947255,-72.467285
+26,13,Portería vehicular,"Avenida 19 # 8-79, Caobos, Cúcuta",7.893140,-72.486683
+27,14,Zona de descargue,"Calle 22 # 20-95, Latino, Villa del Rosario",7.896117,-72.461828
+28,14,Recepción,"Diagonal 22 # 22-97, Caobos, Cúcuta",7.899474,-72.521507
+29,15,Portería vehicular,"Calle 14 # 25-37, Prados del Norte, Los Patios",7.933409,-72.492888
+30,15,Bodega de carga,"Calle 40 # 22-24, Centro, Cúcuta",7.911205,-72.548121
+31,16,Recepción,"Calle 10 # 15-91, San Luis, Cúcuta",7.886387,-72.547192
+32,16,Portería vehicular,"Diagonal 33 # 14-89, Atalaya, Cúcuta",7.908188,-72.545113
+33,17,Sede sur,"Carrera 36 # 5-59, La Riviera, Los Patios",7.868064,-72.462305
+34,17,Bodega de carga,"Carrera 16 # 13-97, Caobos, Cúcuta",7.921332,-72.470546
+35,18,Bodega de carga,"Diagonal 8 # 12-72, Belén, Cúcuta",7.929061,-72.504830
+36,18,Torre A,"Carrera 34 # 26-27, La Riviera, Cúcuta",7.861585,-72.488827
+37,19,Zona de descargue,"Avenida 7 # 2-25, Prados del Norte, Cúcuta",7.942147,-72.546024
+38,19,Parqueadero,"Carrera 40 # 17-78, Latino, Cúcuta",7.882415,-72.514593
+39,20,Bodega de carga,"Avenida 9 # 29-40, San Luis, Villa del Rosario",7.920496,-72.504258
+40,20,Parqueadero,"Avenida 16 # 13-30, Latino, Cúcuta",7.901762,-72.484201
+41,21,Torre A,"Diagonal 26 # 22-29, Centro, Cúcuta",7.929502,-72.478581
+42,21,Portería vehicular,"Diagonal 26 # 16-16, Centro, Cúcuta",7.892825,-72.517138
+43,22,Torre A,"Carrera 27 # 10-75, Prados del Norte, Cúcuta",7.940781,-72.492638
+44,22,Zona de descargue,"Avenida 21 # 2-37, San Luis, Cúcuta",7.903117,-72.553750
+45,23,Sede sur,"Calle 20 # 5-18, La Riviera, Cúcuta",7.900920,-72.486905
+46,23,Portería vehicular,"Calle 21 # 6-51, San Luis, Cúcuta",7.912289,-72.556164
+47,24,Recepción,"Calle 30 # 2-25, Latino, Cúcuta",7.871408,-72.528218
+48,24,Sede sur,"Carrera 21 # 7-81, Latino, Cúcuta",7.947495,-72.501044
+49,25,Portería principal,"Avenida 10 # 24-46, Latino, Cúcuta",7.947027,-72.514603
+50,25,Recepción,"Carrera 37 # 10-49, Caobos, Cúcuta",7.855056,-72.533625
+51,26,Portería principal,"Diagonal 16 # 2-80, San Luis, Cúcuta",7.899524,-72.502449
+52,26,Zona de descargue,"Calle 20 # 25-82, La Riviera, Cúcuta",7.886027,-72.494052
+53,27,Portería principal,"Calle 5 # 2-47, Centro, Cúcuta",7.948502,-72.532518
+54,27,Parqueadero,"Calle 12 # 7-8, Belén, Los Patios",7.923111,-72.478280
+55,28,Sede norte,"Avenida 30 # 21-28, Belén, Los Patios",7.889549,-72.468311
+56,28,Sede sur,"Avenida 2 # 22-79, La Riviera, Los Patios",7.904623,-72.543083
+57,29,Zona de descargue,"Avenida 29 # 8-57, Latino, Cúcuta",7.901292,-72.510959
+58,29,Sede sur,"Diagonal 17 # 2-20, Centro, Los Patios",7.910411,-72.503666
+59,30,Bodega de carga,"Carrera 35 # 23-73, Atalaya, Cúcuta",7.912678,-72.558897
+60,30,Recepción,"Diagonal 7 # 1-4, Belén, Cúcuta",7.897774,-72.502794
+61,31,Recepción,"Avenida 37 # 16-6, Centro, Cúcuta",7.934047,-72.476091
+62,31,Portería principal,"Diagonal 11 # 9-84, La Riviera, Cúcuta",7.856762,-72.548095
+63,32,Parqueadero,"Calle 11 # 11-6, Prados del Norte, Los Patios",7.938930,-72.484719
+64,32,Sede sur,"Diagonal 34 # 17-63, Caobos, Los Patios",7.860408,-72.480568
+65,33,Portería principal,"Calle 38 # 24-13, Popular, Los Patios",7.891730,-72.519442
+66,33,Recepción,"Calle 37 # 19-19, Centro, Cúcuta",7.912519,-72.475580
+67,34,Torre A,"Carrera 40 # 10-7, Popular, Los Patios",7.851252,-72.503202
+68,34,Bodega de carga,"Avenida 32 # 30-5, Atalaya, Los Patios",7.852130,-72.533049
+69,35,Bloque administrativo,"Calle 14 # 25-30, Latino, Cúcuta",7.908484,-72.546674
+70,35,Portería vehicular,"Avenida 38 # 16-58, Popular, Cúcuta",7.904076,-72.538059
+71,36,Parqueadero,"Avenida 13 # 22-3, Centro, Cúcuta",7.898520,-72.469555
+72,36,Recepción,"Carrera 8 # 16-45, Atalaya, Cúcuta",7.866527,-72.487442
+73,37,Bloque administrativo,"Diagonal 26 # 22-67, San Luis, Villa del Rosario",7.945847,-72.481839
+74,37,Torre A,"Calle 3 # 30-79, Latino, Cúcuta",7.893667,-72.497709
+75,38,Torre A,"Avenida 36 # 22-25, Centro, Los Patios",7.894209,-72.463396
+76,38,Parqueadero,"Avenida 25 # 22-33, Atalaya, Villa del Rosario",7.925956,-72.477880
+77,39,Portería principal,"Avenida 29 # 27-13, Prados del Norte, Cúcuta",7.852401,-72.555562
+78,39,Portería vehicular,"Avenida 8 # 12-31, La Riviera, Cúcuta",7.912254,-72.525153
+79,40,Zona de descargue,"Diagonal 14 # 5-32, Popular, Cúcuta",7.853225,-72.548962
+80,40,Bloque administrativo,"Carrera 5 # 16-53, Prados del Norte, Cúcuta",7.867509,-72.509185
+81,41,Sede norte,"Calle 23 # 2-72, Latino, Cúcuta",7.869860,-72.472807
+82,41,Parqueadero,"Diagonal 38 # 1-60, Latino, Villa del Rosario",7.929847,-72.550546
+83,42,Bloque administrativo,"Carrera 38 # 20-22, Prados del Norte, Cúcuta",7.899049,-72.549728
+84,42,Recepción,"Diagonal 3 # 17-21, Belén, Cúcuta",7.906700,-72.549547
+85,43,Bloque administrativo,"Calle 14 # 8-96, Prados del Norte, Cúcuta",7.890042,-72.461036
+86,43,Recepción,"Avenida 11 # 21-40, Atalaya, Cúcuta",7.851031,-72.501807
+87,44,Sede norte,"Avenida 15 # 20-18, Caobos, Cúcuta",7.897028,-72.495535
+88,44,Bloque administrativo,"Calle 5 # 12-29, Caobos, Cúcuta",7.872197,-72.520584
+89,45,Parqueadero,"Diagonal 19 # 29-97, Belén, Los Patios",7.918322,-72.502602
+90,45,Zona de descargue,"Carrera 20 # 18-76, Latino, Cúcuta",7.877247,-72.491168
+91,46,Bloque administrativo,"Carrera 31 # 28-1, La Riviera, Cúcuta",7.870639,-72.508714
+92,46,Torre A,"Calle 22 # 22-14, Latino, Cúcuta",7.904840,-72.539091
+93,47,Zona de descargue,"Diagonal 21 # 14-82, Atalaya, Villa del Rosario",7.948391,-72.462563
+94,47,Bloque administrativo,"Calle 9 # 29-66, Caobos, Los Patios",7.931745,-72.460162
+95,48,Bodega de carga,"Avenida 6 # 8-9, San Luis, Cúcuta",7.903004,-72.477328
+96,48,Recepción,"Carrera 39 # 15-50, Popular, Cúcuta",7.885621,-72.512536
+97,49,Recepción,"Avenida 7 # 3-94, Caobos, Cúcuta",7.908070,-72.462461
+98,49,Sede sur,"Carrera 13 # 9-84, Popular, Los Patios",7.906661,-72.490178
+99,50,Sede sur,"Avenida 13 # 16-20, San Luis, Cúcuta",7.909881,-72.519880
+100,50,Torre A,"Avenida 6 # 26-19, Belén, Cúcuta",7.938374,-72.492025

@@ -1,0 +1,101 @@
+client_id,legal_name,contact_name,phone,email,address,status
+1,Almacén El Remanso S.A.S.,Yuliana Torres,3055664819,yuliana.torres@almacenelremanso.com.co,"Calle 33 # 6-84, Centro, Cúcuta",1
+2,Hotel Cúcuta Centro S.A.,Juan Duarte,3226011403,juan.duarte@hotelcucutacentro.com.co,"Diagonal 20 # 12-32, Prados del Norte, Cúcuta",1
+3,Centro Comercial Torre Azul,Yuliana Becerra,6070918402,yuliana.becerra@centrocomercialtorreazul.com.co,"Avenida 7 # 26-95, La Riviera, Cúcuta",1
+4,Distribuidora Paraíso Ltda.,Ana Cáceres,6078200428,ana.caceres@distribuidoraparaiso.com.co,"Avenida 26 # 21-21, Popular, Cúcuta",1
+5,Estación de Servicio Villa Norte Ltda.,Rosa Parada,3026581038,rosa.parada@estaciondeserviciovillanorte.com.co,"Calle 21 # 7-41, Centro, Villa del Rosario",1
+6,Almacén San Rafael S.A.S.,Sergio Jaimes,6075431717,sergio.jaimes@almacensanrafael.com.co,"Avenida 37 # 19-48, Prados del Norte, Cúcuta",1
+7,Droguería Altos del Bosque S.A.,Natalia Solano,3056780907,natalia.solano@drogueriaaltosdelbosque.com.co,"Diagonal 22 # 12-35, Belén, Cúcuta",1
+8,Hotel Mirador S.A.,Fabián Hernández,3074052100,fabian.hernandez@hotelmirador.com.co,"Diagonal 24 # 8-72, Popular, Cúcuta",1
+9,Distribuidora El Remanso,Johana Gómez,6078860794,johana.gomez@distribuidoraelremanso.com.co,"Calle 35 # 21-78, Centro, Villa del Rosario",1
+10,Droguería La Esperanza,Esperanza Montañez,6072576760,esperanza.montanez@droguerialaesperanza.com.co,"Avenida 3 # 25-76, Quinta Oriental, Villa del Rosario",1
+11,Fundación Cúcuta Centro Ltda.,Gloria Torres,6079280269,gloria.torres@fundacioncucutacentro.com.co,"Carrera 36 # 30-39, San Luis, Cúcuta",1
+12,Bodegas San Rafael S.A.S.,Óscar Contreras,3112373315,oscar.contreras@bodegassanrafael.com.co,"Calle 1 # 13-73, Popular, Cúcuta",0
+13,Almacén Los Andes,Fabián Arévalo,6079496516,fabian.arevalo@almacenlosandes.com.co,"Calle 21 # 16-99, Centro, Villa del Rosario",1
+14,Almacén Primavera,Gloria Suárez,3242815140,gloria.suarez@almacenprimavera.com.co,"Calle 17 # 23-38, La Riviera, Cúcuta",1
+15,Edificio Santa Ana Ltda.,Yesenia Delgado,6078554893,yesenia.delgado@edificiosantaana.com.co,"Avenida 36 # 22-88, Belén, Cúcuta",1
+16,Supermercado El Rosal Ltda.,Sergio Ramírez,3084483494,sergio.ramirez@supermercadoelrosal.com.co,"Carrera 21 # 29-17, Latino, Cúcuta",1
+17,Cooperativa Monte Real,Adriana Villamizar,3275238968,adriana.villamizar@cooperativamontereal.com.co,"Calle 37 # 4-52, Popular, Los Patios",1
+18,Distribuidora Primavera,Ricardo Ortega,6073294645,ricardo.ortega@distribuidoraprimavera.com.co,"Diagonal 11 # 25-40, Popular, Cúcuta",1
+19,Droguería Paraíso S.A.,Rosa Gómez,6077888483,rosa.gomez@drogueriaparaiso.com.co,"Carrera 4 # 2-27, Centro, Cúcuta",1
+20,Cooperativa Santa Ana Ltda.,Viviana Maldonado,3150591068,viviana.maldonado@cooperativasantaana.com.co,"Carrera 22 # 17-19, Centro, Villa del Rosario",1
+21,Fundación Los Pinos S.A.S.,Diana Ovallos,3186084286,diana.ovallos@fundacionlospinos.com.co,"Diagonal 13 # 21-98, Belén, Cúcuta",1
+22,Colegio Cúcuta Centro S.A.S.,Marcela Duarte,3081142441,marcela.duarte@colegiocucutacentro.com.co,"Avenida 1 # 4-70, Latino, Cúcuta",1
+23,Bodegas Villa Norte S.A.S.,Claudia Ascanio,3024952707,claudia.ascanio@bodegasvillanorte.com.co,"Diagonal 37 # 2-38, Caobos, Los Patios",1
+24,Cooperativa Mirador S.A.S.,Luis Suárez,3125363382,luis.suarez@cooperativamirador.com.co,"Calle 18 # 13-28, Atalaya, Cúcuta",1
+25,Hotel Bella Vista S.A.,Karen Ramírez,6079554641,karen.ramirez@hotelbellavista.com.co,"Calle 39 # 25-33, Atalaya, Cúcuta",0
+26,Clínica Monte Real Ltda.,Miguel Ramírez,3112650423,miguel.ramirez@clinicamontereal.com.co,"Avenida 24 # 16-25, San Luis, Los Patios",1
+27,Conjunto Residencial Horizonte Ltda.,Laura Lizcano,3276780231,laura.lizcano@conjuntoresidencialhorizonte.com.co,"Diagonal 29 # 13-14, Prados del Norte, Cúcuta",1
+28,Conjunto Residencial Los Pinos S.A.S.,Daniel Solano,3046366374,daniel.solano@conjuntoresidenciallospinos.com.co,"Calle 9 # 2-60, Latino, Cúcuta",1
+29,Hotel La Frontera S.A.S.,Carlos Gómez,3296585806,carlos.gomez@hotellafrontera.com.co,"Avenida 5 # 1-81, Latino, Los Patios",1
+30,Clínica El Tesoro Ltda.,Johana Duarte,3027230399,johana.duarte@clinicaeltesoro.com.co,"Avenida 18 # 3-84, Prados del Norte, Cúcuta",1
+31,Centro Comercial San Martín,Fabián Duarte,3202536812,fabian.duarte@centrocomercialsanmartin.com.co,"Calle 5 # 4-91, Prados del Norte, Cúcuta",0
+32,Bodegas El Tesoro S.A.S.,Carlos Montañez,6078683082,carlos.montanez@bodegaseltesoro.com.co,"Diagonal 11 # 10-41, Atalaya, Cúcuta",1
+33,Estación de Servicio Cúcuta Centro S.A.,Sandra Maldonado,6075327542,sandra.maldonado@estaciondeserviciocucutacentro.com.co,"Calle 36 # 14-66, La Riviera, Los Patios",1
+34,Estación de Servicio Santa Ana,Daniel Becerra,3068996452,daniel.becerra@estaciondeserviciosantaana.com.co,"Diagonal 12 # 22-10, La Riviera, Villa del Rosario",1
+35,Estación de Servicio Atalaya S.A.,Pedro Pabón,6071642013,pedro.pabon@estaciondeservicioatalaya.com.co,"Carrera 12 # 25-90, Belén, Cúcuta",1
+36,Estación de Servicio San Rafael,Ana Villamizar,6077935275,ana.villamizar@estaciondeserviciosanrafael.com.co,"Calle 23 # 17-49, Prados del Norte, Cúcuta",1
+37,Distribuidora Bella Vista S.A.,Edwin Ibarra,3161895165,edwin.ibarra@distribuidorabellavista.com.co,"Calle 18 # 10-5, San Luis, Villa del Rosario",1
+38,Estación de Servicio Bella Vista,Laura Contreras,3232315784,laura.contreras@estaciondeserviciobellavista.com.co,"Avenida 21 # 22-52, San Luis, Villa del Rosario",1
+39,Cooperativa El Tesoro Ltda.,Fabián Mendoza,3036481468,fabian.mendoza@cooperativaeltesoro.com.co,"Diagonal 22 # 4-59, Quinta Oriental, Cúcuta",1
+40,Centro Comercial Altos del Bosque Ltda.,Daniel Bayona,6070450219,daniel.bayona@centrocomercialaltosdelbosque.com.co,"Calle 40 # 24-20, La Riviera, Villa del Rosario",1
+41,Colegio Primavera,Carlos Solano,6073666301,carlos.solano@colegioprimavera.com.co,"Calle 20 # 6-63, Latino, Cúcuta",1
+42,Constructora San Martín,Pedro Montañez,3299029638,pedro.montanez@constructorasanmartin.com.co,"Carrera 29 # 4-35, San Luis, Cúcuta",1
+43,Fundación Horizonte,Wilson Arévalo,6078142101,wilson.arevalo@fundacionhorizonte.com.co,"Diagonal 8 # 25-49, Belén, Cúcuta",1
+44,Colegio La Esperanza,Carlos Sánchez,3179773048,carlos.sanchez@colegiolaesperanza.com.co,"Diagonal 40 # 13-22, Centro, Cúcuta",0
+45,Almacén Monte Real Ltda.,Jorge Pabón,6078922125,jorge.pabon@almacenmontereal.com.co,"Carrera 25 # 24-17, Quinta Oriental, Cúcuta",1
+46,Hotel El Rosal S.A.,Wilson Hernández,3156135562,wilson.hernandez@hotelelrosal.com.co,"Avenida 39 # 3-44, Prados del Norte, Cúcuta",1
+47,Droguería La Ceiba S.A.S.,Marcela Contreras,3120681234,marcela.contreras@droguerialaceiba.com.co,"Calle 25 # 8-30, Caobos, Cúcuta",1
+48,Fundación El Rosal S.A.S.,Luz Montañez,6078264564,luz.montanez@fundacionelrosal.com.co,"Carrera 8 # 12-60, Latino, Los Patios",1
+49,Centro Comercial Las Palmas,Diana Lizcano,3070818990,diana.lizcano@centrocomerciallaspalmas.com.co,"Carrera 36 # 17-8, Prados del Norte, Cúcuta",1
+50,Fundación Paraíso S.A.S.,Wilson Duarte,3259382496,wilson.duarte@fundacionparaiso.com.co,"Diagonal 29 # 5-25, Atalaya, Cúcuta",1
+51,Estación de Servicio Paraíso Ltda.,Sandra Mora,6077806787,sandra.mora@estaciondeservicioparaiso.com.co,"Calle 1 # 22-47, Quinta Oriental, Los Patios",1
+52,Droguería El Tesoro S.A.S.,Camilo Duarte,3298347958,camilo.duarte@drogueriaeltesoro.com.co,"Avenida 38 # 17-48, Caobos, Los Patios",0
+53,Estación de Servicio Las Palmas S.A.S.,Viviana Villamizar,3233385774,viviana.villamizar@estaciondeserviciolaspalmas.com.co,"Avenida 35 # 13-43, Atalaya, Villa del Rosario",1
+54,Distribuidora Santa Ana,Miguel Maldonado,6074393138,miguel.maldonado@distribuidorasantaana.com.co,"Carrera 4 # 25-35, Belén, Cúcuta",1
+55,Fundación Los Andes S.A.S.,Luz Hernández,3272317135,luz.hernandez@fundacionlosandes.com.co,"Carrera 18 # 23-90, Latino, Cúcuta",1
+56,Distribuidora Cristal Ltda.,Ana Peñaranda,3050610349,ana.penaranda@distribuidoracristal.com.co,"Diagonal 27 # 11-64, Belén, Los Patios",1
+57,Constructora El Remanso Ltda.,Edwin Rojas,3075170007,edwin.rojas@constructoraelremanso.com.co,"Calle 21 # 13-62, Quinta Oriental, Los Patios",1
+58,Colegio Los Pinos S.A.S.,Daniel Lizcano,6072317206,daniel.lizcano@colegiolospinos.com.co,"Calle 30 # 18-78, La Riviera, Los Patios",1
+59,Conjunto Residencial El Progreso,Adriana Montañez,3296388967,adriana.montanez@conjuntoresidencialelprogreso.com.co,"Diagonal 1 # 14-95, Atalaya, Cúcuta",1
+60,Estación de Servicio Mirador Ltda.,María Ramírez,3155515776,maria.ramirez@estaciondeserviciomirador.com.co,"Diagonal 11 # 4-18, La Riviera, Cúcuta",1
+61,Edificio Los Pinos S.A.,Jorge Bayona,6073110873,jorge.bayona@edificiolospinos.com.co,"Calle 6 # 23-33, Prados del Norte, Villa del Rosario",1
+62,Fundación Torre Azul S.A.S.,Laura Gómez,6074844589,laura.gomez@fundaciontorreazul.com.co,"Calle 12 # 5-90, Caobos, Cúcuta",1
+63,Cooperativa Altos del Bosque S.A.,Luis Jaimes,6071093868,luis.jaimes@cooperativaaltosdelbosque.com.co,"Diagonal 25 # 16-18, Prados del Norte, Villa del Rosario",1
+64,Estación de Servicio El Remanso S.A.,Edwin Montañez,3092847287,edwin.montanez@estaciondeservicioelremanso.com.co,"Avenida 27 # 22-33, Prados del Norte, Los Patios",1
+65,Hotel San Martín,Sergio Villamizar,3238506261,sergio.villamizar@hotelsanmartin.com.co,"Calle 21 # 8-13, Atalaya, Villa del Rosario",1
+66,Bodegas Cúcuta Centro,Nelson Peñaranda,3032431707,nelson.penaranda@bodegascucutacentro.com.co,"Avenida 28 # 3-70, Latino, Cúcuta",1
+67,Centro Comercial La Frontera S.A.,Felipe Hernández,6077939030,felipe.hernandez@centrocomerciallafrontera.com.co,"Calle 7 # 18-8, Popular, Villa del Rosario",0
+68,Almacén La Ceiba S.A.S.,Wilson Ramírez,3055751565,wilson.ramirez@almacenlaceiba.com.co,"Diagonal 2 # 16-84, Quinta Oriental, Cúcuta",1
+69,Droguería Cristal Ltda.,Laura Navarro,3143292141,laura.navarro@drogueriacristal.com.co,"Diagonal 14 # 24-54, San Luis, Villa del Rosario",1
+70,Clínica La Esperanza S.A.,Diana Parada,3042170154,diana.parada@clinicalaesperanza.com.co,"Carrera 36 # 12-42, Prados del Norte, Villa del Rosario",1
+71,Estación de Servicio Monte Real S.A.S.,Alexánder Cáceres,3142844699,alexander.caceres@estaciondeserviciomontereal.com.co,"Diagonal 38 # 25-82, Prados del Norte, Los Patios",0
+72,Clínica Villa Norte,Rosa Hernández,6070936813,rosa.hernandez@clinicavillanorte.com.co,"Calle 30 # 11-63, San Luis, Cúcuta",1
+73,Distribuidora Los Andes S.A.,Sergio Rojas,6074033004,sergio.rojas@distribuidoralosandes.com.co,"Calle 33 # 29-95, Prados del Norte, Cúcuta",1
+74,Constructora Bella Vista S.A.,Liliana Ortega,3071077185,liliana.ortega@constructorabellavista.com.co,"Avenida 2 # 14-3, Atalaya, Cúcuta",1
+75,Clínica Horizonte Ltda.,Héctor Becerra,6077287843,hector.becerra@clinicahorizonte.com.co,"Carrera 8 # 27-88, San Luis, Cúcuta",1
+76,Estación de Servicio Los Pinos S.A.S.,Carlos León,6078234444,carlos.leon@estaciondeserviciolospinos.com.co,"Carrera 26 # 11-82, Centro, Cúcuta",1
+77,Droguería San Rafael Ltda.,Carlos Peñaranda,3095921672,carlos.penaranda@drogueriasanrafael.com.co,"Diagonal 14 # 2-52, Belén, Cúcuta",1
+78,Conjunto Residencial Cúcuta Centro S.A.,Ricardo Torres,3109303900,ricardo.torres@conjuntoresidencialcucutacentro.com.co,"Carrera 29 # 22-51, Quinta Oriental, Cúcuta",1
+79,Distribuidora Torre Azul,Ricardo Jaimes,3154631250,ricardo.jaimes@distribuidoratorreazul.com.co,"Carrera 8 # 26-1, Belén, Los Patios",1
+80,Supermercado Cúcuta Centro S.A.S.,Ricardo Duarte,6075957505,ricardo.duarte@supermercadocucutacentro.com.co,"Calle 11 # 23-99, La Riviera, Cúcuta",1
+81,Colegio Altos del Bosque S.A.S.,Luis Pérez,3202605966,luis.perez@colegioaltosdelbosque.com.co,"Diagonal 7 # 3-10, San Luis, Los Patios",1
+82,Supermercado Torre Azul,Felipe Delgado,6072453620,felipe.delgado@supermercadotorreazul.com.co,"Avenida 18 # 24-14, Belén, Villa del Rosario",1
+83,Distribuidora San Martín,Sergio Contreras,6071390209,sergio.contreras@distribuidorasanmartin.com.co,"Carrera 38 # 30-28, San Luis, Cúcuta",1
+84,Centro Comercial Monte Real,Miguel Ovallos,6076856217,miguel.ovallos@centrocomercialmontereal.com.co,"Avenida 14 # 18-38, San Luis, Los Patios",0
+85,Constructora Las Palmas Ltda.,Felipe Cáceres,3137310709,felipe.caceres@constructoralaspalmas.com.co,"Avenida 31 # 9-32, Caobos, Cúcuta",1
+86,Hotel El Remanso S.A.S.,Alexánder Navarro,3122652956,alexander.navarro@hotelelremanso.com.co,"Avenida 9 # 16-18, Centro, Villa del Rosario",1
+87,Cooperativa La Esperanza S.A.S.,Wilson Ortega,6073931282,wilson.ortega@cooperativalaesperanza.com.co,"Avenida 16 # 29-11, Prados del Norte, Cúcuta",1
+88,Hotel Paraíso Ltda.,Diana Quintero,3211644375,diana.quintero@hotelparaiso.com.co,"Diagonal 34 # 26-42, Centro, Cúcuta",1
+89,Colegio Monte Real S.A.,Camilo Hernández,3123138120,camilo.hernandez@colegiomontereal.com.co,"Calle 9 # 4-3, Caobos, Cúcuta",1
+90,Clínica San Rafael Ltda.,Natalia Suárez,6073447036,natalia.suarez@clinicasanrafael.com.co,"Calle 26 # 1-46, San Luis, Cúcuta",1
+91,Fundación Bella Vista S.A.,Gloria Mora,3243126686,gloria.mora@fundacionbellavista.com.co,"Carrera 1 # 23-65, Prados del Norte, Cúcuta",1
+92,Almacén Altos del Bosque S.A.,Sergio Duarte,3014697914,sergio.duarte@almacenaltosdelbosque.com.co,"Carrera 29 # 26-79, Popular, Los Patios",1
+93,Distribuidora Atalaya S.A.S.,Jorge Delgado,6078887311,jorge.delgado@distribuidoraatalaya.com.co,"Avenida 38 # 28-21, Centro, Villa del Rosario",1
+94,Supermercado Horizonte,Sandra Parada,3215650059,sandra.parada@supermercadohorizonte.com.co,"Avenida 11 # 11-2, San Luis, Cúcuta",1
+95,Estación de Servicio Cristal S.A.,Daniel Blanco,3224035925,daniel.blanco@estaciondeserviciocristal.com.co,"Carrera 19 # 10-96, Caobos, Cúcuta",1
+96,Clínica San Martín,Nelson Navarro,3106850160,nelson.navarro@clinicasanmartin.com.co,"Avenida 39 # 29-92, Quinta Oriental, Cúcuta",1
+97,Bodegas El Progreso S.A.,Yuliana Jaimes,6070946264,yuliana.jaimes@bodegaselprogreso.com.co,"Calle 18 # 13-36, Atalaya, Cúcuta",1
+98,Fundación San Martín S.A.,Luz Solano,6071007353,luz.solano@fundacionsanmartin.com.co,"Carrera 2 # 15-90, Popular, Cúcuta",1
+99,Supermercado El Remanso S.A.,María Quintero,6077216473,maria.quintero@supermercadoelremanso.com.co,"Diagonal 28 # 23-91, Atalaya, Cúcuta",1
+100,Conjunto Residencial Santa Ana,Gloria Ibarra,6079990646,gloria.ibarra@conjuntoresidencialsantaana.com.co,"Diagonal 26 # 26-99, Atalaya, Cúcuta",1

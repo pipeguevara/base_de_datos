@@ -1,0 +1,1001 @@
+assignment_id,status,observations,employ_employ_id,contract_contract_id,start_time,end_time,date,description
+1,0,Entrega del puesto en orden.,27,5,06:00:00,14:00:00,2026-09-01,Vigilancia de puesto fijo
+2,0,,30,50,06:00:00,14:00:00,2026-09-01,Custodia de instalaciones
+3,0,Turno cumplido sin novedades.,42,23,06:00:00,14:00:00,2026-09-01,Vigilancia de puesto fijo
+4,0,Relevo recibido y entregado a tiempo.,47,23,06:00:00,14:00:00,2026-09-01,Control de ingreso vehicular
+5,0,Relevo recibido y entregado a tiempo.,4,29,07:00:00,19:00:00,2026-09-01,Monitoreo de cámaras y rondas
+6,0,Relevo recibido y entregado a tiempo.,10,44,07:00:00,19:00:00,2026-09-01,Control de ingreso vehicular
+7,0,,33,50,07:00:00,19:00:00,2026-09-01,Custodia de instalaciones
+8,0,Relevo recibido y entregado a tiempo.,37,44,07:00:00,19:00:00,2026-09-01,Monitoreo de cámaras y rondas
+9,0,Relevo recibido y entregado a tiempo.,39,31,07:00:00,19:00:00,2026-09-01,Vigilancia de puesto fijo
+10,0,,5,29,14:00:00,22:00:00,2026-09-01,Control de acceso y rondas
+11,0,Entrega del puesto en orden.,25,48,14:00:00,22:00:00,2026-09-01,Monitoreo de cámaras y rondas
+12,0,,31,28,14:00:00,22:00:00,2026-09-01,Vigilancia de puesto fijo
+13,0,Turno cumplido sin novedades.,17,2,06:00:00,14:00:00,2026-09-02,Monitoreo de cámaras y rondas
+14,0,,30,4,06:00:00,14:00:00,2026-09-02,Control de acceso y rondas
+15,0,,32,42,06:00:00,14:00:00,2026-09-02,Custodia de instalaciones
+16,0,Turno cumplido sin novedades.,43,31,06:00:00,14:00:00,2026-09-02,Vigilancia de puesto fijo
+17,0,Relevo recibido y entregado a tiempo.,44,32,06:00:00,14:00:00,2026-09-02,Monitoreo de cámaras y rondas
+18,0,Relevo recibido y entregado a tiempo.,2,1,07:00:00,19:00:00,2026-09-02,Vigilancia de puesto fijo
+19,0,Turno cumplido sin novedades.,4,19,07:00:00,19:00:00,2026-09-02,Monitoreo de cámaras y rondas
+20,0,,35,46,07:00:00,19:00:00,2026-09-02,Custodia de instalaciones
+21,0,,37,8,07:00:00,19:00:00,2026-09-02,Custodia de instalaciones
+22,0,Turno cumplido sin novedades.,5,41,14:00:00,22:00:00,2026-09-02,Monitoreo de cámaras y rondas
+23,0,Turno cumplido sin novedades.,18,2,14:00:00,22:00:00,2026-09-02,Control de acceso y rondas
+24,0,Entrega del puesto en orden.,25,48,14:00:00,22:00:00,2026-09-02,Custodia de instalaciones
+25,0,Entrega del puesto en orden.,48,20,14:00:00,22:00:00,2026-09-02,Vigilancia de puesto fijo
+26,0,Relevo recibido y entregado a tiempo.,9,40,06:00:00,14:00:00,2026-09-03,Control de acceso y rondas
+27,0,,15,17,06:00:00,14:00:00,2026-09-03,Monitoreo de cámaras y rondas
+28,0,,26,6,06:00:00,14:00:00,2026-09-03,Control de ingreso vehicular
+29,0,,27,5,06:00:00,14:00:00,2026-09-03,Control de acceso y rondas
+30,0,Relevo recibido y entregado a tiempo.,47,48,06:00:00,14:00:00,2026-09-03,Control de acceso y rondas
+31,0,,4,46,07:00:00,19:00:00,2026-09-03,Vigilancia de puesto fijo
+32,0,Relevo recibido y entregado a tiempo.,7,22,07:00:00,19:00:00,2026-09-03,Control de acceso y rondas
+33,0,Relevo recibido y entregado a tiempo.,10,44,07:00:00,19:00:00,2026-09-03,Control de acceso y rondas
+34,0,Relevo recibido y entregado a tiempo.,36,42,07:00:00,19:00:00,2026-09-03,Vigilancia de puesto fijo
+35,0,,37,44,07:00:00,19:00:00,2026-09-03,Custodia de instalaciones
+36,0,Entrega del puesto en orden.,39,32,07:00:00,19:00:00,2026-09-03,Vigilancia de puesto fijo
+37,0,,25,48,14:00:00,22:00:00,2026-09-03,Monitoreo de cámaras y rondas
+38,0,,31,48,14:00:00,22:00:00,2026-09-03,Control de ingreso vehicular
+39,0,,40,25,14:00:00,22:00:00,2026-09-03,Control de ingreso vehicular
+40,0,,30,50,06:00:00,14:00:00,2026-09-04,Control de acceso y rondas
+41,0,Entrega del puesto en orden.,32,6,06:00:00,14:00:00,2026-09-04,Monitoreo de cámaras y rondas
+42,0,Relevo recibido y entregado a tiempo.,46,17,06:00:00,14:00:00,2026-09-04,Monitoreo de cámaras y rondas
+43,0,,47,48,06:00:00,14:00:00,2026-09-04,Custodia de instalaciones
+44,0,Relevo recibido y entregado a tiempo.,7,42,07:00:00,19:00:00,2026-09-04,Control de acceso y rondas
+45,0,Turno cumplido sin novedades.,14,25,07:00:00,19:00:00,2026-09-04,Control de ingreso vehicular
+46,0,Entrega del puesto en orden.,37,14,07:00:00,19:00:00,2026-09-04,Control de acceso y rondas
+47,0,Entrega del puesto en orden.,8,31,14:00:00,22:00:00,2026-09-04,Monitoreo de cámaras y rondas
+48,0,Relevo recibido y entregado a tiempo.,12,33,14:00:00,22:00:00,2026-09-04,Control de acceso y rondas
+49,0,Relevo recibido y entregado a tiempo.,22,21,14:00:00,22:00:00,2026-09-04,Custodia de instalaciones
+50,0,,31,48,14:00:00,22:00:00,2026-09-04,Custodia de instalaciones
+51,0,,40,49,14:00:00,22:00:00,2026-09-04,Custodia de instalaciones
+52,0,Relevo recibido y entregado a tiempo.,26,6,06:00:00,14:00:00,2026-09-05,Vigilancia de puesto fijo
+53,0,,27,46,06:00:00,14:00:00,2026-09-05,Control de acceso y rondas
+54,0,,44,31,06:00:00,14:00:00,2026-09-05,Custodia de instalaciones
+55,0,Relevo recibido y entregado a tiempo.,6,49,07:00:00,19:00:00,2026-09-05,Custodia de instalaciones
+56,0,,7,25,07:00:00,19:00:00,2026-09-05,Control de ingreso vehicular
+57,0,Relevo recibido y entregado a tiempo.,13,7,07:00:00,19:00:00,2026-09-05,Custodia de instalaciones
+58,0,,36,42,07:00:00,19:00:00,2026-09-05,Control de acceso y rondas
+59,0,,5,49,14:00:00,22:00:00,2026-09-05,Vigilancia de puesto fijo
+60,0,Turno cumplido sin novedades.,12,18,14:00:00,22:00:00,2026-09-05,Control de ingreso vehicular
+61,0,Relevo recibido y entregado a tiempo.,25,48,14:00:00,22:00:00,2026-09-05,Vigilancia de puesto fijo
+62,0,Entrega del puesto en orden.,3,38,06:00:00,14:00:00,2026-09-06,Control de acceso y rondas
+63,0,,17,2,06:00:00,14:00:00,2026-09-06,Monitoreo de cámaras y rondas
+64,0,,23,46,06:00:00,14:00:00,2026-09-06,Custodia de instalaciones
+65,0,Turno cumplido sin novedades.,27,49,06:00:00,14:00:00,2026-09-06,Monitoreo de cámaras y rondas
+66,0,Entrega del puesto en orden.,38,33,06:00:00,14:00:00,2026-09-06,Monitoreo de cámaras y rondas
+67,0,Entrega del puesto en orden.,46,28,06:00:00,14:00:00,2026-09-06,Vigilancia de puesto fijo
+68,0,,49,33,06:00:00,14:00:00,2026-09-06,Control de acceso y rondas
+69,0,Entrega del puesto en orden.,4,19,07:00:00,19:00:00,2026-09-06,Control de acceso y rondas
+70,0,Turno cumplido sin novedades.,6,22,07:00:00,19:00:00,2026-09-06,Vigilancia de puesto fijo
+71,0,,7,42,07:00:00,19:00:00,2026-09-06,Monitoreo de cámaras y rondas
+72,0,Entrega del puesto en orden.,10,20,07:00:00,19:00:00,2026-09-06,Vigilancia de puesto fijo
+73,0,Turno cumplido sin novedades.,37,14,07:00:00,19:00:00,2026-09-06,Custodia de instalaciones
+74,0,Relevo recibido y entregado a tiempo.,5,49,14:00:00,22:00:00,2026-09-06,Control de ingreso vehicular
+75,0,Relevo recibido y entregado a tiempo.,11,6,14:00:00,22:00:00,2026-09-06,Control de ingreso vehicular
+76,0,,40,41,14:00:00,22:00:00,2026-09-06,Custodia de instalaciones
+77,0,,41,34,14:00:00,22:00:00,2026-09-06,Custodia de instalaciones
+78,0,Turno cumplido sin novedades.,48,20,14:00:00,22:00:00,2026-09-06,Control de ingreso vehicular
+79,0,Turno cumplido sin novedades.,3,20,06:00:00,14:00:00,2026-09-07,Vigilancia de puesto fijo
+80,0,,19,30,06:00:00,14:00:00,2026-09-07,Custodia de instalaciones
+81,0,Turno cumplido sin novedades.,43,31,06:00:00,14:00:00,2026-09-07,Monitoreo de cámaras y rondas
+82,0,,49,9,06:00:00,14:00:00,2026-09-07,Control de acceso y rondas
+83,0,,7,25,07:00:00,19:00:00,2026-09-07,Control de acceso y rondas
+84,0,,37,8,07:00:00,19:00:00,2026-09-07,Control de ingreso vehicular
+85,0,,5,29,14:00:00,22:00:00,2026-09-07,Control de ingreso vehicular
+86,0,,31,28,14:00:00,22:00:00,2026-09-07,Monitoreo de cámaras y rondas
+87,0,Relevo recibido y entregado a tiempo.,30,26,06:00:00,14:00:00,2026-09-08,Custodia de instalaciones
+88,0,Entrega del puesto en orden.,42,28,06:00:00,14:00:00,2026-09-08,Vigilancia de puesto fijo
+89,0,,43,31,06:00:00,14:00:00,2026-09-08,Custodia de instalaciones
+90,0,Relevo recibido y entregado a tiempo.,44,31,06:00:00,14:00:00,2026-09-08,Custodia de instalaciones
+91,0,Turno cumplido sin novedades.,7,42,07:00:00,19:00:00,2026-09-08,Control de ingreso vehicular
+92,0,,10,44,07:00:00,19:00:00,2026-09-08,Control de ingreso vehicular
+93,0,,21,47,07:00:00,19:00:00,2026-09-08,Control de acceso y rondas
+94,0,,34,22,07:00:00,19:00:00,2026-09-08,Monitoreo de cámaras y rondas
+95,0,,36,19,07:00:00,19:00:00,2026-09-08,Control de acceso y rondas
+96,0,,5,41,14:00:00,22:00:00,2026-09-08,Control de acceso y rondas
+97,0,Relevo recibido y entregado a tiempo.,11,3,14:00:00,22:00:00,2026-09-08,Custodia de instalaciones
+98,0,Turno cumplido sin novedades.,25,16,14:00:00,22:00:00,2026-09-08,Monitoreo de cámaras y rondas
+99,0,Turno cumplido sin novedades.,28,9,14:00:00,22:00:00,2026-09-08,Custodia de instalaciones
+100,0,Relevo recibido y entregado a tiempo.,40,41,14:00:00,22:00:00,2026-09-08,Control de acceso y rondas
+101,0,Turno cumplido sin novedades.,41,34,14:00:00,22:00:00,2026-09-08,Control de ingreso vehicular
+102,0,Relevo recibido y entregado a tiempo.,1,21,06:00:00,14:00:00,2026-09-09,Monitoreo de cámaras y rondas
+103,0,Turno cumplido sin novedades.,30,50,06:00:00,14:00:00,2026-09-09,Monitoreo de cámaras y rondas
+104,0,,6,22,07:00:00,19:00:00,2026-09-09,Control de ingreso vehicular
+105,0,,7,25,07:00:00,19:00:00,2026-09-09,Monitoreo de cámaras y rondas
+106,0,,35,40,07:00:00,19:00:00,2026-09-09,Control de acceso y rondas
+107,0,,37,14,07:00:00,19:00:00,2026-09-09,Vigilancia de puesto fijo
+108,0,Turno cumplido sin novedades.,11,29,14:00:00,22:00:00,2026-09-09,Monitoreo de cámaras y rondas
+109,0,,25,48,14:00:00,22:00:00,2026-09-09,Control de acceso y rondas
+110,0,,48,26,14:00:00,22:00:00,2026-09-09,Monitoreo de cámaras y rondas
+111,0,,1,8,06:00:00,14:00:00,2026-09-10,Vigilancia de puesto fijo
+112,0,Relevo recibido y entregado a tiempo.,15,9,06:00:00,14:00:00,2026-09-10,Vigilancia de puesto fijo
+113,0,,19,2,06:00:00,14:00:00,2026-09-10,Monitoreo de cámaras y rondas
+114,0,Relevo recibido y entregado a tiempo.,24,31,06:00:00,14:00:00,2026-09-10,Control de ingreso vehicular
+115,0,,30,26,06:00:00,14:00:00,2026-09-10,Control de ingreso vehicular
+116,0,Relevo recibido y entregado a tiempo.,32,6,06:00:00,14:00:00,2026-09-10,Control de ingreso vehicular
+117,0,Relevo recibido y entregado a tiempo.,7,22,07:00:00,19:00:00,2026-09-10,Control de acceso y rondas
+118,0,,37,8,07:00:00,19:00:00,2026-09-10,Control de acceso y rondas
+119,0,,5,29,14:00:00,22:00:00,2026-09-10,Vigilancia de puesto fijo
+120,0,,18,34,14:00:00,22:00:00,2026-09-10,Control de acceso y rondas
+121,0,Entrega del puesto en orden.,20,40,14:00:00,22:00:00,2026-09-10,Control de ingreso vehicular
+122,0,Entrega del puesto en orden.,41,14,14:00:00,22:00:00,2026-09-10,Control de ingreso vehicular
+123,0,Relevo recibido y entregado a tiempo.,9,33,06:00:00,14:00:00,2026-09-11,Control de ingreso vehicular
+124,0,,23,22,06:00:00,14:00:00,2026-09-11,Vigilancia de puesto fijo
+125,0,Turno cumplido sin novedades.,29,3,06:00:00,14:00:00,2026-09-11,Vigilancia de puesto fijo
+126,0,Turno cumplido sin novedades.,46,17,06:00:00,14:00:00,2026-09-11,Custodia de instalaciones
+127,0,,37,8,07:00:00,19:00:00,2026-09-11,Control de acceso y rondas
+128,0,,25,43,14:00:00,22:00:00,2026-09-11,Monitoreo de cámaras y rondas
+129,0,,15,9,06:00:00,14:00:00,2026-09-12,Vigilancia de puesto fijo
+130,0,,30,50,06:00:00,14:00:00,2026-09-12,Control de acceso y rondas
+131,0,,50,48,06:00:00,14:00:00,2026-09-12,Custodia de instalaciones
+132,0,Relevo recibido y entregado a tiempo.,2,1,07:00:00,19:00:00,2026-09-12,Control de acceso y rondas
+133,0,,21,37,07:00:00,19:00:00,2026-09-12,Monitoreo de cámaras y rondas
+134,0,Turno cumplido sin novedades.,37,14,07:00:00,19:00:00,2026-09-12,Monitoreo de cámaras y rondas
+135,0,Turno cumplido sin novedades.,5,49,14:00:00,22:00:00,2026-09-12,Monitoreo de cámaras y rondas
+136,0,,12,18,14:00:00,22:00:00,2026-09-12,Control de acceso y rondas
+137,0,,25,43,14:00:00,22:00:00,2026-09-12,Vigilancia de puesto fijo
+138,0,Entrega del puesto en orden.,41,22,14:00:00,22:00:00,2026-09-12,Monitoreo de cámaras y rondas
+139,0,,3,48,06:00:00,14:00:00,2026-09-13,Vigilancia de puesto fijo
+140,0,,9,40,06:00:00,14:00:00,2026-09-13,Vigilancia de puesto fijo
+141,0,,15,9,06:00:00,14:00:00,2026-09-13,Control de acceso y rondas
+142,0,,19,35,06:00:00,14:00:00,2026-09-13,Custodia de instalaciones
+143,0,Entrega del puesto en orden.,26,32,06:00:00,14:00:00,2026-09-13,Control de ingreso vehicular
+144,0,Relevo recibido y entregado a tiempo.,30,50,06:00:00,14:00:00,2026-09-13,Control de acceso y rondas
+145,0,Turno cumplido sin novedades.,42,40,06:00:00,14:00:00,2026-09-13,Custodia de instalaciones
+146,0,Relevo recibido y entregado a tiempo.,7,22,07:00:00,19:00:00,2026-09-13,Control de acceso y rondas
+147,0,Turno cumplido sin novedades.,5,49,14:00:00,22:00:00,2026-09-13,Custodia de instalaciones
+148,0,Turno cumplido sin novedades.,12,18,14:00:00,22:00:00,2026-09-13,Custodia de instalaciones
+149,0,Entrega del puesto en orden.,3,20,06:00:00,14:00:00,2026-09-14,Control de ingreso vehicular
+150,0,Relevo recibido y entregado a tiempo.,9,33,06:00:00,14:00:00,2026-09-14,Vigilancia de puesto fijo
+151,0,,17,2,06:00:00,14:00:00,2026-09-14,Monitoreo de cámaras y rondas
+152,0,Relevo recibido y entregado a tiempo.,30,26,06:00:00,14:00:00,2026-09-14,Control de ingreso vehicular
+153,0,Relevo recibido y entregado a tiempo.,38,31,06:00:00,14:00:00,2026-09-14,Control de ingreso vehicular
+154,0,,44,18,06:00:00,14:00:00,2026-09-14,Monitoreo de cámaras y rondas
+155,0,,45,44,06:00:00,14:00:00,2026-09-14,Control de acceso y rondas
+156,0,,7,25,07:00:00,19:00:00,2026-09-14,Custodia de instalaciones
+157,0,Relevo recibido y entregado a tiempo.,14,25,07:00:00,19:00:00,2026-09-14,Monitoreo de cámaras y rondas
+158,0,Relevo recibido y entregado a tiempo.,33,50,07:00:00,19:00:00,2026-09-14,Vigilancia de puesto fijo
+159,0,,5,29,14:00:00,22:00:00,2026-09-14,Control de acceso y rondas
+160,0,,11,29,14:00:00,22:00:00,2026-09-14,Monitoreo de cámaras y rondas
+161,0,,25,16,14:00:00,22:00:00,2026-09-14,Vigilancia de puesto fijo
+162,0,Relevo recibido y entregado a tiempo.,40,25,14:00:00,22:00:00,2026-09-14,Monitoreo de cámaras y rondas
+163,0,,15,9,06:00:00,14:00:00,2026-09-15,Monitoreo de cámaras y rondas
+164,0,Relevo recibido y entregado a tiempo.,19,2,06:00:00,14:00:00,2026-09-15,Custodia de instalaciones
+165,0,,23,22,06:00:00,14:00:00,2026-09-15,Monitoreo de cámaras y rondas
+166,0,,26,6,06:00:00,14:00:00,2026-09-15,Custodia de instalaciones
+167,0,Entrega del puesto en orden.,45,29,06:00:00,14:00:00,2026-09-15,Vigilancia de puesto fijo
+168,0,Relevo recibido y entregado a tiempo.,50,37,06:00:00,14:00:00,2026-09-15,Control de acceso y rondas
+169,0,Entrega del puesto en orden.,7,25,07:00:00,19:00:00,2026-09-15,Control de acceso y rondas
+170,0,Turno cumplido sin novedades.,21,37,07:00:00,19:00:00,2026-09-15,Monitoreo de cámaras y rondas
+171,0,Entrega del puesto en orden.,37,14,07:00:00,19:00:00,2026-09-15,Custodia de instalaciones
+172,0,Relevo recibido y entregado a tiempo.,5,41,14:00:00,22:00:00,2026-09-15,Monitoreo de cámaras y rondas
+173,0,Entrega del puesto en orden.,8,36,14:00:00,22:00:00,2026-09-15,Custodia de instalaciones
+174,0,,16,46,14:00:00,22:00:00,2026-09-15,Control de acceso y rondas
+175,0,,18,4,14:00:00,22:00:00,2026-09-15,Vigilancia de puesto fijo
+176,0,,20,40,14:00:00,22:00:00,2026-09-15,Vigilancia de puesto fijo
+177,0,Entrega del puesto en orden.,25,16,14:00:00,22:00:00,2026-09-15,Control de acceso y rondas
+178,0,Relevo recibido y entregado a tiempo.,31,28,14:00:00,22:00:00,2026-09-15,Monitoreo de cámaras y rondas
+179,0,,48,26,14:00:00,22:00:00,2026-09-15,Control de ingreso vehicular
+180,0,,15,27,06:00:00,14:00:00,2026-09-16,Control de ingreso vehicular
+181,0,Entrega del puesto en orden.,29,19,06:00:00,14:00:00,2026-09-16,Vigilancia de puesto fijo
+182,0,,30,50,06:00:00,14:00:00,2026-09-16,Monitoreo de cámaras y rondas
+183,0,Turno cumplido sin novedades.,42,40,06:00:00,14:00:00,2026-09-16,Control de acceso y rondas
+184,0,Entrega del puesto en orden.,43,31,06:00:00,14:00:00,2026-09-16,Control de acceso y rondas
+185,0,Turno cumplido sin novedades.,45,18,06:00:00,14:00:00,2026-09-16,Vigilancia de puesto fijo
+186,0,Relevo recibido y entregado a tiempo.,49,39,06:00:00,14:00:00,2026-09-16,Monitoreo de cámaras y rondas
+187,0,Entrega del puesto en orden.,6,49,07:00:00,19:00:00,2026-09-16,Control de ingreso vehicular
+188,0,Entrega del puesto en orden.,7,42,07:00:00,19:00:00,2026-09-16,Monitoreo de cámaras y rondas
+189,0,Relevo recibido y entregado a tiempo.,13,14,07:00:00,19:00:00,2026-09-16,Custodia de instalaciones
+190,0,Turno cumplido sin novedades.,36,19,07:00:00,19:00:00,2026-09-16,Vigilancia de puesto fijo
+191,0,Relevo recibido y entregado a tiempo.,37,8,07:00:00,19:00:00,2026-09-16,Vigilancia de puesto fijo
+192,0,,8,31,14:00:00,22:00:00,2026-09-16,Monitoreo de cámaras y rondas
+193,0,Entrega del puesto en orden.,16,49,14:00:00,22:00:00,2026-09-16,Control de ingreso vehicular
+194,0,Entrega del puesto en orden.,22,21,14:00:00,22:00:00,2026-09-16,Control de ingreso vehicular
+195,0,,25,43,14:00:00,22:00:00,2026-09-16,Vigilancia de puesto fijo
+196,0,Relevo recibido y entregado a tiempo.,23,46,06:00:00,14:00:00,2026-09-17,Monitoreo de cámaras y rondas
+197,0,,30,26,06:00:00,14:00:00,2026-09-17,Control de ingreso vehicular
+198,0,Relevo recibido y entregado a tiempo.,47,23,06:00:00,14:00:00,2026-09-17,Control de acceso y rondas
+199,0,Entrega del puesto en orden.,4,19,07:00:00,19:00:00,2026-09-17,Custodia de instalaciones
+200,0,Turno cumplido sin novedades.,34,10,07:00:00,19:00:00,2026-09-17,Vigilancia de puesto fijo
+201,0,Relevo recibido y entregado a tiempo.,35,46,07:00:00,19:00:00,2026-09-17,Vigilancia de puesto fijo
+202,0,,5,41,14:00:00,22:00:00,2026-09-17,Vigilancia de puesto fijo
+203,0,,11,6,14:00:00,22:00:00,2026-09-17,Custodia de instalaciones
+204,0,Turno cumplido sin novedades.,20,40,14:00:00,22:00:00,2026-09-17,Custodia de instalaciones
+205,0,Turno cumplido sin novedades.,25,43,14:00:00,22:00:00,2026-09-17,Control de ingreso vehicular
+206,0,Turno cumplido sin novedades.,28,45,14:00:00,22:00:00,2026-09-17,Control de acceso y rondas
+207,0,,1,21,06:00:00,14:00:00,2026-09-18,Custodia de instalaciones
+208,0,Turno cumplido sin novedades.,3,38,06:00:00,14:00:00,2026-09-18,Vigilancia de puesto fijo
+209,0,,24,38,06:00:00,14:00:00,2026-09-18,Vigilancia de puesto fijo
+210,0,Turno cumplido sin novedades.,29,3,06:00:00,14:00:00,2026-09-18,Custodia de instalaciones
+211,0,,30,4,06:00:00,14:00:00,2026-09-18,Vigilancia de puesto fijo
+212,0,Entrega del puesto en orden.,32,42,06:00:00,14:00:00,2026-09-18,Custodia de instalaciones
+213,0,,7,22,07:00:00,19:00:00,2026-09-18,Vigilancia de puesto fijo
+214,0,,35,46,07:00:00,19:00:00,2026-09-18,Vigilancia de puesto fijo
+215,0,,37,8,07:00:00,19:00:00,2026-09-18,Control de acceso y rondas
+216,0,Entrega del puesto en orden.,5,49,14:00:00,22:00:00,2026-09-18,Control de acceso y rondas
+217,0,Turno cumplido sin novedades.,8,41,14:00:00,22:00:00,2026-09-18,Control de acceso y rondas
+218,0,Relevo recibido y entregado a tiempo.,18,2,14:00:00,22:00:00,2026-09-18,Vigilancia de puesto fijo
+219,0,,25,16,14:00:00,22:00:00,2026-09-18,Control de ingreso vehicular
+220,0,,31,48,14:00:00,22:00:00,2026-09-18,Control de ingreso vehicular
+221,0,Turno cumplido sin novedades.,1,21,06:00:00,14:00:00,2026-09-19,Control de ingreso vehicular
+222,0,Relevo recibido y entregado a tiempo.,3,20,06:00:00,14:00:00,2026-09-19,Monitoreo de cámaras y rondas
+223,0,,19,35,06:00:00,14:00:00,2026-09-19,Control de ingreso vehicular
+224,0,,26,32,06:00:00,14:00:00,2026-09-19,Monitoreo de cámaras y rondas
+225,0,Relevo recibido y entregado a tiempo.,29,3,06:00:00,14:00:00,2026-09-19,Vigilancia de puesto fijo
+226,0,Entrega del puesto en orden.,50,37,06:00:00,14:00:00,2026-09-19,Vigilancia de puesto fijo
+227,0,Relevo recibido y entregado a tiempo.,36,19,07:00:00,19:00:00,2026-09-19,Monitoreo de cámaras y rondas
+228,0,Relevo recibido y entregado a tiempo.,25,48,14:00:00,22:00:00,2026-09-19,Control de acceso y rondas
+229,0,,40,49,14:00:00,22:00:00,2026-09-19,Vigilancia de puesto fijo
+230,0,,9,40,06:00:00,14:00:00,2026-09-20,Control de acceso y rondas
+231,0,Entrega del puesto en orden.,15,9,06:00:00,14:00:00,2026-09-20,Control de acceso y rondas
+232,0,Entrega del puesto en orden.,38,50,06:00:00,14:00:00,2026-09-20,Control de ingreso vehicular
+233,0,,7,25,07:00:00,19:00:00,2026-09-20,Control de ingreso vehicular
+234,0,Entrega del puesto en orden.,21,37,07:00:00,19:00:00,2026-09-20,Vigilancia de puesto fijo
+235,0,Entrega del puesto en orden.,5,29,14:00:00,22:00:00,2026-09-20,Custodia de instalaciones
+236,0,Entrega del puesto en orden.,20,44,14:00:00,22:00:00,2026-09-20,Control de ingreso vehicular
+237,0,Relevo recibido y entregado a tiempo.,25,43,14:00:00,22:00:00,2026-09-20,Monitoreo de cámaras y rondas
+238,0,Relevo recibido y entregado a tiempo.,31,48,14:00:00,22:00:00,2026-09-20,Custodia de instalaciones
+239,0,Relevo recibido y entregado a tiempo.,9,40,06:00:00,14:00:00,2026-09-21,Custodia de instalaciones
+240,0,Relevo recibido y entregado a tiempo.,29,3,06:00:00,14:00:00,2026-09-21,Monitoreo de cámaras y rondas
+241,0,,30,26,06:00:00,14:00:00,2026-09-21,Vigilancia de puesto fijo
+242,0,,43,17,06:00:00,14:00:00,2026-09-21,Custodia de instalaciones
+243,0,Entrega del puesto en orden.,44,32,06:00:00,14:00:00,2026-09-21,Control de acceso y rondas
+244,0,,50,37,06:00:00,14:00:00,2026-09-21,Monitoreo de cámaras y rondas
+245,0,Turno cumplido sin novedades.,4,46,07:00:00,19:00:00,2026-09-21,Monitoreo de cámaras y rondas
+246,0,Turno cumplido sin novedades.,6,22,07:00:00,19:00:00,2026-09-21,Monitoreo de cámaras y rondas
+247,0,Relevo recibido y entregado a tiempo.,10,20,07:00:00,19:00:00,2026-09-21,Control de ingreso vehicular
+248,0,,13,7,07:00:00,19:00:00,2026-09-21,Control de ingreso vehicular
+249,0,Entrega del puesto en orden.,14,2,07:00:00,19:00:00,2026-09-21,Control de ingreso vehicular
+250,0,Relevo recibido y entregado a tiempo.,25,16,14:00:00,22:00:00,2026-09-21,Control de ingreso vehicular
+251,0,Relevo recibido y entregado a tiempo.,41,34,14:00:00,22:00:00,2026-09-21,Vigilancia de puesto fijo
+252,0,,48,20,14:00:00,22:00:00,2026-09-21,Custodia de instalaciones
+253,0,,9,40,06:00:00,14:00:00,2026-09-22,Control de acceso y rondas
+254,0,,24,31,06:00:00,14:00:00,2026-09-22,Monitoreo de cámaras y rondas
+255,0,Relevo recibido y entregado a tiempo.,30,50,06:00:00,14:00:00,2026-09-22,Custodia de instalaciones
+256,0,Turno cumplido sin novedades.,42,40,06:00:00,14:00:00,2026-09-22,Vigilancia de puesto fijo
+257,0,Turno cumplido sin novedades.,44,18,06:00:00,14:00:00,2026-09-22,Control de ingreso vehicular
+258,0,Turno cumplido sin novedades.,49,9,06:00:00,14:00:00,2026-09-22,Vigilancia de puesto fijo
+259,0,,6,22,07:00:00,19:00:00,2026-09-22,Vigilancia de puesto fijo
+260,0,,7,25,07:00:00,19:00:00,2026-09-22,Vigilancia de puesto fijo
+261,0,Entrega del puesto en orden.,21,49,07:00:00,19:00:00,2026-09-22,Monitoreo de cámaras y rondas
+262,0,,37,8,07:00:00,19:00:00,2026-09-22,Vigilancia de puesto fijo
+263,0,Entrega del puesto en orden.,5,41,14:00:00,22:00:00,2026-09-22,Control de ingreso vehicular
+264,0,,8,36,14:00:00,22:00:00,2026-09-22,Custodia de instalaciones
+265,0,,16,46,14:00:00,22:00:00,2026-09-22,Monitoreo de cámaras y rondas
+266,0,,1,42,06:00:00,14:00:00,2026-09-23,Custodia de instalaciones
+267,0,Entrega del puesto en orden.,15,17,06:00:00,14:00:00,2026-09-23,Vigilancia de puesto fijo
+268,0,,23,39,06:00:00,14:00:00,2026-09-23,Monitoreo de cámaras y rondas
+269,0,Relevo recibido y entregado a tiempo.,27,49,06:00:00,14:00:00,2026-09-23,Control de ingreso vehicular
+270,0,Relevo recibido y entregado a tiempo.,30,26,06:00:00,14:00:00,2026-09-23,Monitoreo de cámaras y rondas
+271,0,,6,22,07:00:00,19:00:00,2026-09-23,Vigilancia de puesto fijo
+272,0,,7,25,07:00:00,19:00:00,2026-09-23,Vigilancia de puesto fijo
+273,0,,13,7,07:00:00,19:00:00,2026-09-23,Control de ingreso vehicular
+274,0,,33,50,07:00:00,19:00:00,2026-09-23,Vigilancia de puesto fijo
+275,0,Turno cumplido sin novedades.,34,2,07:00:00,19:00:00,2026-09-23,Control de acceso y rondas
+276,0,,37,44,07:00:00,19:00:00,2026-09-23,Control de ingreso vehicular
+277,0,Entrega del puesto en orden.,5,29,14:00:00,22:00:00,2026-09-23,Control de acceso y rondas
+278,0,,8,36,14:00:00,22:00:00,2026-09-23,Control de ingreso vehicular
+279,0,,16,49,14:00:00,22:00:00,2026-09-23,Vigilancia de puesto fijo
+280,0,,25,43,14:00:00,22:00:00,2026-09-23,Control de ingreso vehicular
+281,0,Turno cumplido sin novedades.,19,30,06:00:00,14:00:00,2026-09-24,Control de acceso y rondas
+282,0,,23,46,06:00:00,14:00:00,2026-09-24,Monitoreo de cámaras y rondas
+283,0,,30,50,06:00:00,14:00:00,2026-09-24,Control de ingreso vehicular
+284,0,Relevo recibido y entregado a tiempo.,50,48,06:00:00,14:00:00,2026-09-24,Custodia de instalaciones
+285,0,,6,20,07:00:00,19:00:00,2026-09-24,Vigilancia de puesto fijo
+286,0,,7,22,07:00:00,19:00:00,2026-09-24,Monitoreo de cámaras y rondas
+287,0,Entrega del puesto en orden.,13,7,07:00:00,19:00:00,2026-09-24,Vigilancia de puesto fijo
+288,0,Entrega del puesto en orden.,33,28,07:00:00,19:00:00,2026-09-24,Custodia de instalaciones
+289,0,,35,40,07:00:00,19:00:00,2026-09-24,Control de ingreso vehicular
+290,0,Turno cumplido sin novedades.,36,42,07:00:00,19:00:00,2026-09-24,Custodia de instalaciones
+291,0,Entrega del puesto en orden.,37,8,07:00:00,19:00:00,2026-09-24,Control de acceso y rondas
+292,0,Entrega del puesto en orden.,5,29,14:00:00,22:00:00,2026-09-24,Control de ingreso vehicular
+293,0,Relevo recibido y entregado a tiempo.,8,41,14:00:00,22:00:00,2026-09-24,Monitoreo de cámaras y rondas
+294,0,Turno cumplido sin novedades.,11,3,14:00:00,22:00:00,2026-09-24,Custodia de instalaciones
+295,0,Entrega del puesto en orden.,16,3,14:00:00,22:00:00,2026-09-24,Control de acceso y rondas
+296,0,,41,14,14:00:00,22:00:00,2026-09-24,Monitoreo de cámaras y rondas
+297,0,Relevo recibido y entregado a tiempo.,48,19,14:00:00,22:00:00,2026-09-24,Control de acceso y rondas
+298,0,,9,36,06:00:00,14:00:00,2026-09-25,Monitoreo de cámaras y rondas
+299,0,,17,2,06:00:00,14:00:00,2026-09-25,Control de acceso y rondas
+300,0,Turno cumplido sin novedades.,44,18,06:00:00,14:00:00,2026-09-25,Vigilancia de puesto fijo
+301,0,,45,29,06:00:00,14:00:00,2026-09-25,Control de ingreso vehicular
+302,0,Entrega del puesto en orden.,49,39,06:00:00,14:00:00,2026-09-25,Control de acceso y rondas
+303,0,,13,14,07:00:00,19:00:00,2026-09-25,Vigilancia de puesto fijo
+304,0,Turno cumplido sin novedades.,34,10,07:00:00,19:00:00,2026-09-25,Custodia de instalaciones
+305,0,Relevo recibido y entregado a tiempo.,5,29,14:00:00,22:00:00,2026-09-25,Vigilancia de puesto fijo
+306,0,Turno cumplido sin novedades.,8,41,14:00:00,22:00:00,2026-09-25,Custodia de instalaciones
+307,0,Relevo recibido y entregado a tiempo.,11,29,14:00:00,22:00:00,2026-09-25,Control de acceso y rondas
+308,0,,25,48,14:00:00,22:00:00,2026-09-25,Control de acceso y rondas
+309,0,Turno cumplido sin novedades.,17,25,06:00:00,14:00:00,2026-09-26,Control de ingreso vehicular
+310,0,Turno cumplido sin novedades.,30,50,06:00:00,14:00:00,2026-09-26,Custodia de instalaciones
+311,0,Entrega del puesto en orden.,38,33,06:00:00,14:00:00,2026-09-26,Monitoreo de cámaras y rondas
+312,0,Entrega del puesto en orden.,44,18,06:00:00,14:00:00,2026-09-26,Control de ingreso vehicular
+313,0,,50,37,06:00:00,14:00:00,2026-09-26,Control de acceso y rondas
+314,0,Relevo recibido y entregado a tiempo.,7,22,07:00:00,19:00:00,2026-09-26,Control de acceso y rondas
+315,0,Turno cumplido sin novedades.,10,44,07:00:00,19:00:00,2026-09-26,Vigilancia de puesto fijo
+316,0,Entrega del puesto en orden.,21,47,07:00:00,19:00:00,2026-09-26,Vigilancia de puesto fijo
+317,0,Entrega del puesto en orden.,39,31,07:00:00,19:00:00,2026-09-26,Control de ingreso vehicular
+318,0,Entrega del puesto en orden.,5,49,14:00:00,22:00:00,2026-09-26,Monitoreo de cámaras y rondas
+319,0,Entrega del puesto en orden.,18,2,14:00:00,22:00:00,2026-09-26,Control de ingreso vehicular
+320,0,,22,19,14:00:00,22:00:00,2026-09-26,Control de ingreso vehicular
+321,0,,25,16,14:00:00,22:00:00,2026-09-26,Custodia de instalaciones
+322,0,Turno cumplido sin novedades.,28,45,14:00:00,22:00:00,2026-09-26,Monitoreo de cámaras y rondas
+323,0,Relevo recibido y entregado a tiempo.,40,41,14:00:00,22:00:00,2026-09-26,Vigilancia de puesto fijo
+324,0,,30,50,06:00:00,14:00:00,2026-09-27,Control de ingreso vehicular
+325,0,,38,50,06:00:00,14:00:00,2026-09-27,Control de ingreso vehicular
+326,0,Relevo recibido y entregado a tiempo.,42,23,06:00:00,14:00:00,2026-09-27,Control de acceso y rondas
+327,0,Relevo recibido y entregado a tiempo.,43,31,06:00:00,14:00:00,2026-09-27,Monitoreo de cámaras y rondas
+328,0,Relevo recibido y entregado a tiempo.,45,18,06:00:00,14:00:00,2026-09-27,Control de acceso y rondas
+329,0,,2,1,07:00:00,19:00:00,2026-09-27,Control de ingreso vehicular
+330,0,Turno cumplido sin novedades.,7,25,07:00:00,19:00:00,2026-09-27,Control de acceso y rondas
+331,0,,37,44,07:00:00,19:00:00,2026-09-27,Custodia de instalaciones
+332,0,,39,37,07:00:00,19:00:00,2026-09-27,Vigilancia de puesto fijo
+333,0,,22,19,14:00:00,22:00:00,2026-09-27,Vigilancia de puesto fijo
+334,0,,31,48,14:00:00,22:00:00,2026-09-27,Control de ingreso vehicular
+335,0,Turno cumplido sin novedades.,1,42,06:00:00,14:00:00,2026-09-28,Control de ingreso vehicular
+336,0,,17,25,06:00:00,14:00:00,2026-09-28,Custodia de instalaciones
+337,0,Entrega del puesto en orden.,23,22,06:00:00,14:00:00,2026-09-28,Control de acceso y rondas
+338,0,Entrega del puesto en orden.,24,43,06:00:00,14:00:00,2026-09-28,Vigilancia de puesto fijo
+339,0,Turno cumplido sin novedades.,27,5,06:00:00,14:00:00,2026-09-28,Custodia de instalaciones
+340,0,,30,4,06:00:00,14:00:00,2026-09-28,Custodia de instalaciones
+341,0,,42,28,06:00:00,14:00:00,2026-09-28,Control de ingreso vehicular
+342,0,Turno cumplido sin novedades.,46,28,06:00:00,14:00:00,2026-09-28,Control de acceso y rondas
+343,0,,47,43,06:00:00,14:00:00,2026-09-28,Vigilancia de puesto fijo
+344,0,,6,49,07:00:00,19:00:00,2026-09-28,Custodia de instalaciones
+345,0,Relevo recibido y entregado a tiempo.,7,25,07:00:00,19:00:00,2026-09-28,Custodia de instalaciones
+346,0,,13,25,07:00:00,19:00:00,2026-09-28,Control de ingreso vehicular
+347,0,,37,8,07:00:00,19:00:00,2026-09-28,Control de acceso y rondas
+348,0,Relevo recibido y entregado a tiempo.,16,3,14:00:00,22:00:00,2026-09-28,Monitoreo de cámaras y rondas
+349,0,,31,48,14:00:00,22:00:00,2026-09-28,Vigilancia de puesto fijo
+350,0,Turno cumplido sin novedades.,26,6,06:00:00,14:00:00,2026-09-29,Monitoreo de cámaras y rondas
+351,0,,27,46,06:00:00,14:00:00,2026-09-29,Custodia de instalaciones
+352,0,Turno cumplido sin novedades.,30,50,06:00:00,14:00:00,2026-09-29,Vigilancia de puesto fijo
+353,0,,21,37,07:00:00,19:00:00,2026-09-29,Vigilancia de puesto fijo
+354,0,Relevo recibido y entregado a tiempo.,37,44,07:00:00,19:00:00,2026-09-29,Custodia de instalaciones
+355,0,,5,29,14:00:00,22:00:00,2026-09-29,Custodia de instalaciones
+356,0,,22,31,14:00:00,22:00:00,2026-09-29,Monitoreo de cámaras y rondas
+357,0,Turno cumplido sin novedades.,28,20,14:00:00,22:00:00,2026-09-29,Monitoreo de cámaras y rondas
+358,0,Turno cumplido sin novedades.,24,43,06:00:00,14:00:00,2026-09-30,Vigilancia de puesto fijo
+359,0,Turno cumplido sin novedades.,27,46,06:00:00,14:00:00,2026-09-30,Monitoreo de cámaras y rondas
+360,0,,32,6,06:00:00,14:00:00,2026-09-30,Custodia de instalaciones
+361,0,Entrega del puesto en orden.,38,31,06:00:00,14:00:00,2026-09-30,Monitoreo de cámaras y rondas
+362,0,Entrega del puesto en orden.,44,18,06:00:00,14:00:00,2026-09-30,Control de acceso y rondas
+363,0,Turno cumplido sin novedades.,13,7,07:00:00,19:00:00,2026-09-30,Control de acceso y rondas
+364,0,Relevo recibido y entregado a tiempo.,21,49,07:00:00,19:00:00,2026-09-30,Monitoreo de cámaras y rondas
+365,0,Turno cumplido sin novedades.,34,22,07:00:00,19:00:00,2026-09-30,Monitoreo de cámaras y rondas
+366,0,Entrega del puesto en orden.,37,14,07:00:00,19:00:00,2026-09-30,Vigilancia de puesto fijo
+367,0,Relevo recibido y entregado a tiempo.,8,36,14:00:00,22:00:00,2026-09-30,Monitoreo de cámaras y rondas
+368,0,,11,6,14:00:00,22:00:00,2026-09-30,Control de acceso y rondas
+369,0,,20,44,14:00:00,22:00:00,2026-09-30,Control de acceso y rondas
+370,0,,25,16,14:00:00,22:00:00,2026-09-30,Control de ingreso vehicular
+371,0,,23,39,06:00:00,14:00:00,2026-10-01,Vigilancia de puesto fijo
+372,0,Entrega del puesto en orden.,26,14,06:00:00,14:00:00,2026-10-01,Custodia de instalaciones
+373,0,Relevo recibido y entregado a tiempo.,27,49,06:00:00,14:00:00,2026-10-01,Custodia de instalaciones
+374,0,Turno cumplido sin novedades.,29,39,06:00:00,14:00:00,2026-10-01,Control de ingreso vehicular
+375,0,,38,31,06:00:00,14:00:00,2026-10-01,Custodia de instalaciones
+376,0,Turno cumplido sin novedades.,2,12,07:00:00,19:00:00,2026-10-01,Vigilancia de puesto fijo
+377,0,,4,46,07:00:00,19:00:00,2026-10-01,Control de ingreso vehicular
+378,0,,33,11,07:00:00,19:00:00,2026-10-01,Vigilancia de puesto fijo
+379,0,,35,46,07:00:00,19:00:00,2026-10-01,Monitoreo de cámaras y rondas
+380,0,Entrega del puesto en orden.,36,42,07:00:00,19:00:00,2026-10-01,Control de acceso y rondas
+381,0,Relevo recibido y entregado a tiempo.,11,3,14:00:00,22:00:00,2026-10-01,Control de ingreso vehicular
+382,0,Turno cumplido sin novedades.,31,11,14:00:00,22:00:00,2026-10-01,Control de ingreso vehicular
+383,0,Turno cumplido sin novedades.,48,20,14:00:00,22:00:00,2026-10-01,Control de acceso y rondas
+384,0,Turno cumplido sin novedades.,3,48,06:00:00,14:00:00,2026-10-02,Vigilancia de puesto fijo
+385,0,Entrega del puesto en orden.,9,36,06:00:00,14:00:00,2026-10-02,Vigilancia de puesto fijo
+386,0,Turno cumplido sin novedades.,28,9,14:00:00,22:00:00,2026-10-02,Monitoreo de cámaras y rondas
+387,0,Turno cumplido sin novedades.,40,41,14:00:00,22:00:00,2026-10-02,Vigilancia de puesto fijo
+388,0,Relevo recibido y entregado a tiempo.,15,9,06:00:00,14:00:00,2026-10-03,Custodia de instalaciones
+389,0,,19,2,06:00:00,14:00:00,2026-10-03,Vigilancia de puesto fijo
+390,0,,26,6,06:00:00,14:00:00,2026-10-03,Control de acceso y rondas
+391,0,,32,42,06:00:00,14:00:00,2026-10-03,Control de acceso y rondas
+392,0,,38,33,06:00:00,14:00:00,2026-10-03,Monitoreo de cámaras y rondas
+393,0,,47,48,06:00:00,14:00:00,2026-10-03,Control de acceso y rondas
+394,0,,50,14,06:00:00,14:00:00,2026-10-03,Control de acceso y rondas
+395,0,Entrega del puesto en orden.,13,14,07:00:00,19:00:00,2026-10-03,Control de acceso y rondas
+396,0,,14,2,07:00:00,19:00:00,2026-10-03,Control de ingreso vehicular
+397,0,Turno cumplido sin novedades.,33,28,07:00:00,19:00:00,2026-10-03,Monitoreo de cámaras y rondas
+398,0,,34,2,07:00:00,19:00:00,2026-10-03,Control de acceso y rondas
+399,0,,16,3,14:00:00,22:00:00,2026-10-03,Control de ingreso vehicular
+400,0,Entrega del puesto en orden.,18,4,14:00:00,22:00:00,2026-10-03,Control de acceso y rondas
+401,0,Entrega del puesto en orden.,40,25,14:00:00,22:00:00,2026-10-03,Custodia de instalaciones
+402,0,Entrega del puesto en orden.,23,39,06:00:00,14:00:00,2026-10-04,Monitoreo de cámaras y rondas
+403,0,Relevo recibido y entregado a tiempo.,38,50,06:00:00,14:00:00,2026-10-04,Control de acceso y rondas
+404,0,Entrega del puesto en orden.,46,37,06:00:00,14:00:00,2026-10-04,Control de acceso y rondas
+405,0,Entrega del puesto en orden.,4,29,07:00:00,19:00:00,2026-10-04,Control de ingreso vehicular
+406,0,,10,47,07:00:00,19:00:00,2026-10-04,Vigilancia de puesto fijo
+407,0,,34,2,07:00:00,19:00:00,2026-10-04,Monitoreo de cámaras y rondas
+408,0,Relevo recibido y entregado a tiempo.,11,3,14:00:00,22:00:00,2026-10-04,Control de acceso y rondas
+409,0,Turno cumplido sin novedades.,22,21,14:00:00,22:00:00,2026-10-04,Control de acceso y rondas
+410,0,,28,20,14:00:00,22:00:00,2026-10-04,Monitoreo de cámaras y rondas
+411,0,Relevo recibido y entregado a tiempo.,27,46,06:00:00,14:00:00,2026-10-05,Vigilancia de puesto fijo
+412,0,Turno cumplido sin novedades.,29,19,06:00:00,14:00:00,2026-10-05,Vigilancia de puesto fijo
+413,0,,49,33,06:00:00,14:00:00,2026-10-05,Vigilancia de puesto fijo
+414,0,Entrega del puesto en orden.,2,12,07:00:00,19:00:00,2026-10-05,Monitoreo de cámaras y rondas
+415,0,,10,20,07:00:00,19:00:00,2026-10-05,Vigilancia de puesto fijo
+416,0,Entrega del puesto en orden.,39,32,07:00:00,19:00:00,2026-10-05,Monitoreo de cámaras y rondas
+417,0,,22,19,14:00:00,22:00:00,2026-10-05,Control de acceso y rondas
+418,0,Turno cumplido sin novedades.,48,26,14:00:00,22:00:00,2026-10-05,Control de ingreso vehicular
+419,0,Turno cumplido sin novedades.,3,20,06:00:00,14:00:00,2026-10-06,Monitoreo de cámaras y rondas
+420,0,,26,14,06:00:00,14:00:00,2026-10-06,Custodia de instalaciones
+421,0,Entrega del puesto en orden.,29,3,06:00:00,14:00:00,2026-10-06,Monitoreo de cámaras y rondas
+422,0,Turno cumplido sin novedades.,43,37,06:00:00,14:00:00,2026-10-06,Monitoreo de cámaras y rondas
+423,0,,46,28,06:00:00,14:00:00,2026-10-06,Vigilancia de puesto fijo
+424,0,,50,14,06:00:00,14:00:00,2026-10-06,Control de acceso y rondas
+425,0,,2,1,07:00:00,19:00:00,2026-10-06,Vigilancia de puesto fijo
+426,0,,14,25,07:00:00,19:00:00,2026-10-06,Monitoreo de cámaras y rondas
+427,0,Relevo recibido y entregado a tiempo.,11,3,14:00:00,22:00:00,2026-10-06,Control de ingreso vehicular
+428,0,Turno cumplido sin novedades.,17,25,06:00:00,14:00:00,2026-10-07,Custodia de instalaciones
+429,0,Entrega del puesto en orden.,26,14,06:00:00,14:00:00,2026-10-07,Vigilancia de puesto fijo
+430,0,,45,18,06:00:00,14:00:00,2026-10-07,Monitoreo de cámaras y rondas
+431,0,Relevo recibido y entregado a tiempo.,2,1,07:00:00,19:00:00,2026-10-07,Custodia de instalaciones
+432,0,,4,19,07:00:00,19:00:00,2026-10-07,Vigilancia de puesto fijo
+433,0,Entrega del puesto en orden.,13,14,07:00:00,19:00:00,2026-10-07,Control de ingreso vehicular
+434,0,Entrega del puesto en orden.,33,28,07:00:00,19:00:00,2026-10-07,Control de ingreso vehicular
+435,0,Relevo recibido y entregado a tiempo.,41,22,14:00:00,22:00:00,2026-10-07,Custodia de instalaciones
+436,0,Turno cumplido sin novedades.,1,42,06:00:00,14:00:00,2026-10-08,Control de acceso y rondas
+437,0,Relevo recibido y entregado a tiempo.,9,36,06:00:00,14:00:00,2026-10-08,Custodia de instalaciones
+438,0,Turno cumplido sin novedades.,27,5,06:00:00,14:00:00,2026-10-08,Control de ingreso vehicular
+439,0,Entrega del puesto en orden.,42,40,06:00:00,14:00:00,2026-10-08,Custodia de instalaciones
+440,0,Relevo recibido y entregado a tiempo.,45,44,06:00:00,14:00:00,2026-10-08,Monitoreo de cámaras y rondas
+441,0,,50,14,06:00:00,14:00:00,2026-10-08,Control de acceso y rondas
+442,0,,35,40,07:00:00,19:00:00,2026-10-08,Monitoreo de cámaras y rondas
+443,0,Relevo recibido y entregado a tiempo.,8,36,14:00:00,22:00:00,2026-10-08,Custodia de instalaciones
+444,0,Entrega del puesto en orden.,11,6,14:00:00,22:00:00,2026-10-08,Control de acceso y rondas
+445,0,Relevo recibido y entregado a tiempo.,12,33,14:00:00,22:00:00,2026-10-08,Control de acceso y rondas
+446,0,Relevo recibido y entregado a tiempo.,20,40,14:00:00,22:00:00,2026-10-08,Control de ingreso vehicular
+447,0,Relevo recibido y entregado a tiempo.,31,11,14:00:00,22:00:00,2026-10-08,Monitoreo de cámaras y rondas
+448,0,Turno cumplido sin novedades.,48,19,14:00:00,22:00:00,2026-10-08,Control de ingreso vehicular
+449,0,,3,48,06:00:00,14:00:00,2026-10-09,Control de ingreso vehicular
+450,0,,19,30,06:00:00,14:00:00,2026-10-09,Vigilancia de puesto fijo
+451,0,Relevo recibido y entregado a tiempo.,43,37,06:00:00,14:00:00,2026-10-09,Control de acceso y rondas
+452,0,Entrega del puesto en orden.,45,44,06:00:00,14:00:00,2026-10-09,Control de acceso y rondas
+453,0,Entrega del puesto en orden.,47,23,06:00:00,14:00:00,2026-10-09,Vigilancia de puesto fijo
+454,0,,49,39,06:00:00,14:00:00,2026-10-09,Monitoreo de cámaras y rondas
+455,0,Entrega del puesto en orden.,2,12,07:00:00,19:00:00,2026-10-09,Monitoreo de cámaras y rondas
+456,0,,13,7,07:00:00,19:00:00,2026-10-09,Control de acceso y rondas
+457,0,Entrega del puesto en orden.,14,2,07:00:00,19:00:00,2026-10-09,Custodia de instalaciones
+458,0,,33,11,07:00:00,19:00:00,2026-10-09,Control de acceso y rondas
+459,0,Turno cumplido sin novedades.,34,10,07:00:00,19:00:00,2026-10-09,Control de ingreso vehicular
+460,0,Turno cumplido sin novedades.,35,17,07:00:00,19:00:00,2026-10-09,Vigilancia de puesto fijo
+461,0,,36,19,07:00:00,19:00:00,2026-10-09,Monitoreo de cámaras y rondas
+462,0,,12,33,14:00:00,22:00:00,2026-10-09,Monitoreo de cámaras y rondas
+463,0,Relevo recibido y entregado a tiempo.,20,20,14:00:00,22:00:00,2026-10-09,Vigilancia de puesto fijo
+464,0,Relevo recibido y entregado a tiempo.,1,8,06:00:00,14:00:00,2026-10-10,Custodia de instalaciones
+465,0,Relevo recibido y entregado a tiempo.,23,46,06:00:00,14:00:00,2026-10-10,Control de ingreso vehicular
+466,0,Turno cumplido sin novedades.,24,38,06:00:00,14:00:00,2026-10-10,Custodia de instalaciones
+467,0,Entrega del puesto en orden.,26,6,06:00:00,14:00:00,2026-10-10,Custodia de instalaciones
+468,0,Turno cumplido sin novedades.,43,17,06:00:00,14:00:00,2026-10-10,Custodia de instalaciones
+469,0,Turno cumplido sin novedades.,49,9,06:00:00,14:00:00,2026-10-10,Custodia de instalaciones
+470,0,,2,40,07:00:00,19:00:00,2026-10-10,Control de ingreso vehicular
+471,0,,10,44,07:00:00,19:00:00,2026-10-10,Monitoreo de cámaras y rondas
+472,0,Turno cumplido sin novedades.,16,46,14:00:00,22:00:00,2026-10-10,Control de ingreso vehicular
+473,0,,18,34,14:00:00,22:00:00,2026-10-10,Control de acceso y rondas
+474,0,,40,49,14:00:00,22:00:00,2026-10-10,Control de ingreso vehicular
+475,0,,19,35,06:00:00,14:00:00,2026-10-11,Control de ingreso vehicular
+476,0,Turno cumplido sin novedades.,23,22,06:00:00,14:00:00,2026-10-11,Control de ingreso vehicular
+477,0,,24,31,06:00:00,14:00:00,2026-10-11,Vigilancia de puesto fijo
+478,0,,27,49,06:00:00,14:00:00,2026-10-11,Control de acceso y rondas
+479,0,,32,24,06:00:00,14:00:00,2026-10-11,Custodia de instalaciones
+480,0,,44,31,06:00:00,14:00:00,2026-10-11,Monitoreo de cámaras y rondas
+481,0,Turno cumplido sin novedades.,45,18,06:00:00,14:00:00,2026-10-11,Control de ingreso vehicular
+482,0,,46,37,06:00:00,14:00:00,2026-10-11,Monitoreo de cámaras y rondas
+483,0,Turno cumplido sin novedades.,47,48,06:00:00,14:00:00,2026-10-11,Vigilancia de puesto fijo
+484,0,,50,37,06:00:00,14:00:00,2026-10-11,Monitoreo de cámaras y rondas
+485,0,,13,14,07:00:00,19:00:00,2026-10-11,Vigilancia de puesto fijo
+486,0,,35,46,07:00:00,19:00:00,2026-10-11,Control de acceso y rondas
+487,0,,18,2,14:00:00,22:00:00,2026-10-11,Vigilancia de puesto fijo
+488,0,,20,44,14:00:00,22:00:00,2026-10-11,Vigilancia de puesto fijo
+489,0,Entrega del puesto en orden.,31,11,14:00:00,22:00:00,2026-10-11,Control de ingreso vehicular
+490,0,Turno cumplido sin novedades.,41,22,14:00:00,22:00:00,2026-10-11,Control de ingreso vehicular
+491,0,Relevo recibido y entregado a tiempo.,24,31,06:00:00,14:00:00,2026-10-12,Vigilancia de puesto fijo
+492,0,Relevo recibido y entregado a tiempo.,26,32,06:00:00,14:00:00,2026-10-12,Vigilancia de puesto fijo
+493,0,Turno cumplido sin novedades.,32,6,06:00:00,14:00:00,2026-10-12,Vigilancia de puesto fijo
+494,0,,42,28,06:00:00,14:00:00,2026-10-12,Control de ingreso vehicular
+495,0,Entrega del puesto en orden.,45,18,06:00:00,14:00:00,2026-10-12,Custodia de instalaciones
+496,0,,47,23,06:00:00,14:00:00,2026-10-12,Monitoreo de cámaras y rondas
+497,0,Relevo recibido y entregado a tiempo.,13,14,07:00:00,19:00:00,2026-10-12,Control de ingreso vehicular
+498,0,Turno cumplido sin novedades.,21,47,07:00:00,19:00:00,2026-10-12,Monitoreo de cámaras y rondas
+499,0,Turno cumplido sin novedades.,33,11,07:00:00,19:00:00,2026-10-12,Vigilancia de puesto fijo
+500,0,Turno cumplido sin novedades.,34,2,07:00:00,19:00:00,2026-10-12,Custodia de instalaciones
+501,0,Entrega del puesto en orden.,36,42,07:00:00,19:00:00,2026-10-12,Control de ingreso vehicular
+502,0,Relevo recibido y entregado a tiempo.,39,31,07:00:00,19:00:00,2026-10-12,Vigilancia de puesto fijo
+503,0,,12,33,14:00:00,22:00:00,2026-10-12,Control de ingreso vehicular
+504,0,Entrega del puesto en orden.,18,4,14:00:00,22:00:00,2026-10-12,Monitoreo de cámaras y rondas
+505,0,Turno cumplido sin novedades.,40,41,14:00:00,22:00:00,2026-10-12,Monitoreo de cámaras y rondas
+506,0,Entrega del puesto en orden.,9,40,06:00:00,14:00:00,2026-10-13,Custodia de instalaciones
+507,0,Relevo recibido y entregado a tiempo.,15,9,06:00:00,14:00:00,2026-10-13,Monitoreo de cámaras y rondas
+508,0,Turno cumplido sin novedades.,17,15,06:00:00,14:00:00,2026-10-13,Vigilancia de puesto fijo
+509,0,Relevo recibido y entregado a tiempo.,27,46,06:00:00,14:00:00,2026-10-13,Control de ingreso vehicular
+510,0,Relevo recibido y entregado a tiempo.,38,31,06:00:00,14:00:00,2026-10-13,Vigilancia de puesto fijo
+511,0,Entrega del puesto en orden.,6,49,07:00:00,19:00:00,2026-10-13,Control de ingreso vehicular
+512,0,Relevo recibido y entregado a tiempo.,34,10,07:00:00,19:00:00,2026-10-13,Custodia de instalaciones
+513,0,Turno cumplido sin novedades.,36,19,07:00:00,19:00:00,2026-10-13,Monitoreo de cámaras y rondas
+514,0,,8,41,14:00:00,22:00:00,2026-10-13,Custodia de instalaciones
+515,0,Entrega del puesto en orden.,31,11,14:00:00,22:00:00,2026-10-13,Vigilancia de puesto fijo
+516,0,Relevo recibido y entregado a tiempo.,41,14,14:00:00,22:00:00,2026-10-13,Control de ingreso vehicular
+517,0,Relevo recibido y entregado a tiempo.,23,46,06:00:00,14:00:00,2026-10-14,Control de acceso y rondas
+518,0,Entrega del puesto en orden.,42,28,06:00:00,14:00:00,2026-10-14,Custodia de instalaciones
+519,0,,43,31,06:00:00,14:00:00,2026-10-14,Control de ingreso vehicular
+520,0,,47,43,06:00:00,14:00:00,2026-10-14,Vigilancia de puesto fijo
+521,0,Entrega del puesto en orden.,33,11,07:00:00,19:00:00,2026-10-14,Monitoreo de cámaras y rondas
+522,0,Relevo recibido y entregado a tiempo.,18,34,14:00:00,22:00:00,2026-10-14,Monitoreo de cámaras y rondas
+523,0,Entrega del puesto en orden.,22,19,14:00:00,22:00:00,2026-10-14,Control de ingreso vehicular
+524,0,Relevo recibido y entregado a tiempo.,15,27,06:00:00,14:00:00,2026-10-15,Control de ingreso vehicular
+525,0,Relevo recibido y entregado a tiempo.,17,25,06:00:00,14:00:00,2026-10-15,Monitoreo de cámaras y rondas
+526,0,Relevo recibido y entregado a tiempo.,23,46,06:00:00,14:00:00,2026-10-15,Monitoreo de cámaras y rondas
+527,0,Entrega del puesto en orden.,26,6,06:00:00,14:00:00,2026-10-15,Monitoreo de cámaras y rondas
+528,0,,43,31,06:00:00,14:00:00,2026-10-15,Vigilancia de puesto fijo
+529,0,,46,28,06:00:00,14:00:00,2026-10-15,Control de acceso y rondas
+530,0,,2,40,07:00:00,19:00:00,2026-10-15,Vigilancia de puesto fijo
+531,0,Entrega del puesto en orden.,4,29,07:00:00,19:00:00,2026-10-15,Custodia de instalaciones
+532,0,,6,20,07:00:00,19:00:00,2026-10-15,Custodia de instalaciones
+533,0,,21,37,07:00:00,19:00:00,2026-10-15,Vigilancia de puesto fijo
+534,0,,12,33,14:00:00,22:00:00,2026-10-15,Control de acceso y rondas
+535,0,Turno cumplido sin novedades.,16,46,14:00:00,22:00:00,2026-10-15,Control de acceso y rondas
+536,0,Entrega del puesto en orden.,28,20,14:00:00,22:00:00,2026-10-15,Monitoreo de cámaras y rondas
+537,0,Entrega del puesto en orden.,15,27,06:00:00,14:00:00,2026-10-16,Control de acceso y rondas
+538,0,,32,42,06:00:00,14:00:00,2026-10-16,Vigilancia de puesto fijo
+539,0,,38,33,06:00:00,14:00:00,2026-10-16,Control de ingreso vehicular
+540,0,Turno cumplido sin novedades.,44,32,06:00:00,14:00:00,2026-10-16,Monitoreo de cámaras y rondas
+541,0,Entrega del puesto en orden.,46,28,06:00:00,14:00:00,2026-10-16,Control de ingreso vehicular
+542,0,Entrega del puesto en orden.,47,48,06:00:00,14:00:00,2026-10-16,Monitoreo de cámaras y rondas
+543,0,Turno cumplido sin novedades.,50,37,06:00:00,14:00:00,2026-10-16,Control de ingreso vehicular
+544,0,Relevo recibido y entregado a tiempo.,4,19,07:00:00,19:00:00,2026-10-16,Control de ingreso vehicular
+545,0,,6,49,07:00:00,19:00:00,2026-10-16,Control de ingreso vehicular
+546,0,Entrega del puesto en orden.,10,20,07:00:00,19:00:00,2026-10-16,Monitoreo de cámaras y rondas
+547,0,Entrega del puesto en orden.,33,28,07:00:00,19:00:00,2026-10-16,Monitoreo de cámaras y rondas
+548,0,,12,18,14:00:00,22:00:00,2026-10-16,Custodia de instalaciones
+549,0,,20,44,14:00:00,22:00:00,2026-10-16,Vigilancia de puesto fijo
+550,0,Entrega del puesto en orden.,28,9,14:00:00,22:00:00,2026-10-16,Monitoreo de cámaras y rondas
+551,0,,9,36,06:00:00,14:00:00,2026-10-17,Vigilancia de puesto fijo
+552,0,Relevo recibido y entregado a tiempo.,15,9,06:00:00,14:00:00,2026-10-17,Monitoreo de cámaras y rondas
+553,0,Turno cumplido sin novedades.,38,31,06:00:00,14:00:00,2026-10-17,Control de ingreso vehicular
+554,0,,43,37,06:00:00,14:00:00,2026-10-17,Control de ingreso vehicular
+555,0,Relevo recibido y entregado a tiempo.,6,49,07:00:00,19:00:00,2026-10-17,Vigilancia de puesto fijo
+556,0,Relevo recibido y entregado a tiempo.,14,25,07:00:00,19:00:00,2026-10-17,Control de acceso y rondas
+557,0,Turno cumplido sin novedades.,34,10,07:00:00,19:00:00,2026-10-17,Control de ingreso vehicular
+558,0,,28,9,14:00:00,22:00:00,2026-10-17,Custodia de instalaciones
+559,0,,40,41,14:00:00,22:00:00,2026-10-17,Monitoreo de cámaras y rondas
+560,0,Entrega del puesto en orden.,19,2,06:00:00,14:00:00,2026-10-18,Monitoreo de cámaras y rondas
+561,0,,23,46,06:00:00,14:00:00,2026-10-18,Vigilancia de puesto fijo
+562,0,Relevo recibido y entregado a tiempo.,24,38,06:00:00,14:00:00,2026-10-18,Control de ingreso vehicular
+563,0,Entrega del puesto en orden.,26,6,06:00:00,14:00:00,2026-10-18,Control de acceso y rondas
+564,0,,29,19,06:00:00,14:00:00,2026-10-18,Control de acceso y rondas
+565,0,,32,42,06:00:00,14:00:00,2026-10-18,Control de acceso y rondas
+566,0,,46,28,06:00:00,14:00:00,2026-10-18,Custodia de instalaciones
+567,0,Turno cumplido sin novedades.,49,9,06:00:00,14:00:00,2026-10-18,Custodia de instalaciones
+568,0,Entrega del puesto en orden.,6,20,07:00:00,19:00:00,2026-10-18,Monitoreo de cámaras y rondas
+569,0,,21,49,07:00:00,19:00:00,2026-10-18,Vigilancia de puesto fijo
+570,0,Entrega del puesto en orden.,39,32,07:00:00,19:00:00,2026-10-18,Vigilancia de puesto fijo
+571,0,Relevo recibido y entregado a tiempo.,12,18,14:00:00,22:00:00,2026-10-18,Custodia de instalaciones
+572,0,Entrega del puesto en orden.,22,31,14:00:00,22:00:00,2026-10-18,Vigilancia de puesto fijo
+573,0,Turno cumplido sin novedades.,48,26,14:00:00,22:00:00,2026-10-18,Custodia de instalaciones
+574,0,Entrega del puesto en orden.,26,6,06:00:00,14:00:00,2026-10-19,Vigilancia de puesto fijo
+575,0,,27,46,06:00:00,14:00:00,2026-10-19,Vigilancia de puesto fijo
+576,0,,45,44,06:00:00,14:00:00,2026-10-19,Custodia de instalaciones
+577,0,,46,37,06:00:00,14:00:00,2026-10-19,Control de acceso y rondas
+578,0,Turno cumplido sin novedades.,47,23,06:00:00,14:00:00,2026-10-19,Vigilancia de puesto fijo
+579,0,,4,29,07:00:00,19:00:00,2026-10-19,Vigilancia de puesto fijo
+580,0,,14,2,07:00:00,19:00:00,2026-10-19,Monitoreo de cámaras y rondas
+581,0,Relevo recibido y entregado a tiempo.,34,2,07:00:00,19:00:00,2026-10-19,Control de ingreso vehicular
+582,0,Relevo recibido y entregado a tiempo.,35,46,07:00:00,19:00:00,2026-10-19,Custodia de instalaciones
+583,0,,39,32,07:00:00,19:00:00,2026-10-19,Control de ingreso vehicular
+584,0,Entrega del puesto en orden.,8,31,14:00:00,22:00:00,2026-10-19,Control de acceso y rondas
+585,0,Relevo recibido y entregado a tiempo.,16,49,14:00:00,22:00:00,2026-10-19,Custodia de instalaciones
+586,0,,18,2,14:00:00,22:00:00,2026-10-19,Control de ingreso vehicular
+587,0,,1,21,06:00:00,14:00:00,2026-10-20,Control de ingreso vehicular
+588,0,Entrega del puesto en orden.,17,25,06:00:00,14:00:00,2026-10-20,Custodia de instalaciones
+589,0,Turno cumplido sin novedades.,19,2,06:00:00,14:00:00,2026-10-20,Custodia de instalaciones
+590,0,,29,19,06:00:00,14:00:00,2026-10-20,Control de acceso y rondas
+591,0,Relevo recibido y entregado a tiempo.,38,50,06:00:00,14:00:00,2026-10-20,Vigilancia de puesto fijo
+592,0,,44,32,06:00:00,14:00:00,2026-10-20,Monitoreo de cámaras y rondas
+593,0,,49,9,06:00:00,14:00:00,2026-10-20,Monitoreo de cámaras y rondas
+594,0,Relevo recibido y entregado a tiempo.,50,37,06:00:00,14:00:00,2026-10-20,Monitoreo de cámaras y rondas
+595,0,,6,20,07:00:00,19:00:00,2026-10-20,Custodia de instalaciones
+596,0,,21,37,07:00:00,19:00:00,2026-10-20,Monitoreo de cámaras y rondas
+597,0,,12,18,14:00:00,22:00:00,2026-10-20,Vigilancia de puesto fijo
+598,0,,20,20,14:00:00,22:00:00,2026-10-20,Monitoreo de cámaras y rondas
+599,0,Entrega del puesto en orden.,48,26,14:00:00,22:00:00,2026-10-20,Vigilancia de puesto fijo
+600,0,Turno cumplido sin novedades.,15,27,06:00:00,14:00:00,2026-10-21,Custodia de instalaciones
+601,0,Entrega del puesto en orden.,17,2,06:00:00,14:00:00,2026-10-21,Custodia de instalaciones
+602,0,Entrega del puesto en orden.,19,2,06:00:00,14:00:00,2026-10-21,Control de acceso y rondas
+603,0,Turno cumplido sin novedades.,42,40,06:00:00,14:00:00,2026-10-21,Monitoreo de cámaras y rondas
+604,0,,45,29,06:00:00,14:00:00,2026-10-21,Monitoreo de cámaras y rondas
+605,0,Relevo recibido y entregado a tiempo.,46,28,06:00:00,14:00:00,2026-10-21,Control de ingreso vehicular
+606,0,Entrega del puesto en orden.,49,9,06:00:00,14:00:00,2026-10-21,Monitoreo de cámaras y rondas
+607,0,,4,19,07:00:00,19:00:00,2026-10-21,Vigilancia de puesto fijo
+608,0,,10,44,07:00:00,19:00:00,2026-10-21,Control de acceso y rondas
+609,0,,20,44,14:00:00,22:00:00,2026-10-21,Monitoreo de cámaras y rondas
+610,0,,31,11,14:00:00,22:00:00,2026-10-21,Control de ingreso vehicular
+611,0,Turno cumplido sin novedades.,40,41,14:00:00,22:00:00,2026-10-21,Monitoreo de cámaras y rondas
+612,0,Entrega del puesto en orden.,48,19,14:00:00,22:00:00,2026-10-21,Control de ingreso vehicular
+613,0,Turno cumplido sin novedades.,3,20,06:00:00,14:00:00,2026-10-22,Control de ingreso vehicular
+614,0,Turno cumplido sin novedades.,42,23,06:00:00,14:00:00,2026-10-22,Custodia de instalaciones
+615,0,,6,49,07:00:00,19:00:00,2026-10-22,Control de acceso y rondas
+616,0,Relevo recibido y entregado a tiempo.,14,25,07:00:00,19:00:00,2026-10-22,Control de acceso y rondas
+617,0,Entrega del puesto en orden.,39,32,07:00:00,19:00:00,2026-10-22,Monitoreo de cámaras y rondas
+618,0,Relevo recibido y entregado a tiempo.,20,40,14:00:00,22:00:00,2026-10-22,Custodia de instalaciones
+619,0,,28,9,14:00:00,22:00:00,2026-10-22,Monitoreo de cámaras y rondas
+620,0,,48,26,14:00:00,22:00:00,2026-10-22,Custodia de instalaciones
+621,0,Relevo recibido y entregado a tiempo.,19,35,06:00:00,14:00:00,2026-10-23,Control de ingreso vehicular
+622,0,,26,6,06:00:00,14:00:00,2026-10-23,Monitoreo de cámaras y rondas
+623,0,Turno cumplido sin novedades.,47,23,06:00:00,14:00:00,2026-10-23,Monitoreo de cámaras y rondas
+624,0,Entrega del puesto en orden.,49,33,06:00:00,14:00:00,2026-10-23,Monitoreo de cámaras y rondas
+625,0,,13,25,07:00:00,19:00:00,2026-10-23,Custodia de instalaciones
+626,0,,14,2,07:00:00,19:00:00,2026-10-23,Control de acceso y rondas
+627,0,,18,2,14:00:00,22:00:00,2026-10-23,Control de acceso y rondas
+628,0,Turno cumplido sin novedades.,41,14,14:00:00,22:00:00,2026-10-23,Control de acceso y rondas
+629,0,,32,24,06:00:00,14:00:00,2026-10-24,Control de acceso y rondas
+630,0,Turno cumplido sin novedades.,33,11,07:00:00,19:00:00,2026-10-24,Custodia de instalaciones
+631,0,Entrega del puesto en orden.,36,42,07:00:00,19:00:00,2026-10-24,Control de acceso y rondas
+632,0,Turno cumplido sin novedades.,40,25,14:00:00,22:00:00,2026-10-24,Custodia de instalaciones
+633,0,Entrega del puesto en orden.,24,38,06:00:00,14:00:00,2026-10-25,Vigilancia de puesto fijo
+634,0,Relevo recibido y entregado a tiempo.,32,24,06:00:00,14:00:00,2026-10-25,Control de acceso y rondas
+635,0,,50,48,06:00:00,14:00:00,2026-10-25,Custodia de instalaciones
+636,0,,10,20,07:00:00,19:00:00,2026-10-25,Control de acceso y rondas
+637,0,Entrega del puesto en orden.,21,37,07:00:00,19:00:00,2026-10-25,Control de acceso y rondas
+638,0,,33,11,07:00:00,19:00:00,2026-10-25,Custodia de instalaciones
+639,0,Turno cumplido sin novedades.,35,40,07:00:00,19:00:00,2026-10-25,Control de ingreso vehicular
+640,0,Turno cumplido sin novedades.,8,31,14:00:00,22:00:00,2026-10-25,Custodia de instalaciones
+641,0,,20,20,14:00:00,22:00:00,2026-10-25,Control de acceso y rondas
+642,0,,22,31,14:00:00,22:00:00,2026-10-25,Vigilancia de puesto fijo
+643,0,,48,19,14:00:00,22:00:00,2026-10-25,Vigilancia de puesto fijo
+644,0,Turno cumplido sin novedades.,1,21,06:00:00,14:00:00,2026-10-26,Monitoreo de cámaras y rondas
+645,0,,9,40,06:00:00,14:00:00,2026-10-26,Custodia de instalaciones
+646,0,Entrega del puesto en orden.,15,27,06:00:00,14:00:00,2026-10-26,Monitoreo de cámaras y rondas
+647,0,,17,2,06:00:00,14:00:00,2026-10-26,Custodia de instalaciones
+648,0,,24,38,06:00:00,14:00:00,2026-10-26,Vigilancia de puesto fijo
+649,0,Turno cumplido sin novedades.,29,19,06:00:00,14:00:00,2026-10-26,Monitoreo de cámaras y rondas
+650,0,,45,29,06:00:00,14:00:00,2026-10-26,Custodia de instalaciones
+651,0,Entrega del puesto en orden.,46,37,06:00:00,14:00:00,2026-10-26,Custodia de instalaciones
+652,0,Turno cumplido sin novedades.,4,19,07:00:00,19:00:00,2026-10-26,Monitoreo de cámaras y rondas
+653,0,Relevo recibido y entregado a tiempo.,14,2,07:00:00,19:00:00,2026-10-26,Control de ingreso vehicular
+654,0,,34,10,07:00:00,19:00:00,2026-10-26,Custodia de instalaciones
+655,0,Entrega del puesto en orden.,35,40,07:00:00,19:00:00,2026-10-26,Control de acceso y rondas
+656,0,,39,31,07:00:00,19:00:00,2026-10-26,Custodia de instalaciones
+657,0,,16,46,14:00:00,22:00:00,2026-10-26,Custodia de instalaciones
+658,0,,18,2,14:00:00,22:00:00,2026-10-26,Control de ingreso vehicular
+659,0,,22,31,14:00:00,22:00:00,2026-10-26,Control de ingreso vehicular
+660,0,Entrega del puesto en orden.,40,25,14:00:00,22:00:00,2026-10-26,Monitoreo de cámaras y rondas
+661,0,Entrega del puesto en orden.,48,20,14:00:00,22:00:00,2026-10-26,Custodia de instalaciones
+662,0,,3,38,06:00:00,14:00:00,2026-10-27,Monitoreo de cámaras y rondas
+663,0,Entrega del puesto en orden.,15,9,06:00:00,14:00:00,2026-10-27,Control de acceso y rondas
+664,0,,24,38,06:00:00,14:00:00,2026-10-27,Vigilancia de puesto fijo
+665,0,Entrega del puesto en orden.,43,31,06:00:00,14:00:00,2026-10-27,Monitoreo de cámaras y rondas
+666,0,,49,33,06:00:00,14:00:00,2026-10-27,Monitoreo de cámaras y rondas
+667,0,Turno cumplido sin novedades.,34,10,07:00:00,19:00:00,2026-10-27,Vigilancia de puesto fijo
+668,0,Entrega del puesto en orden.,35,40,07:00:00,19:00:00,2026-10-27,Control de ingreso vehicular
+669,0,,20,40,14:00:00,22:00:00,2026-10-27,Control de acceso y rondas
+670,0,,40,41,14:00:00,22:00:00,2026-10-27,Control de ingreso vehicular
+671,0,Entrega del puesto en orden.,1,8,06:00:00,14:00:00,2026-10-28,Custodia de instalaciones
+672,0,,3,48,06:00:00,14:00:00,2026-10-28,Control de ingreso vehicular
+673,0,Relevo recibido y entregado a tiempo.,9,40,06:00:00,14:00:00,2026-10-28,Control de ingreso vehicular
+674,0,,23,46,06:00:00,14:00:00,2026-10-28,Control de ingreso vehicular
+675,0,,29,19,06:00:00,14:00:00,2026-10-28,Control de ingreso vehicular
+676,0,Entrega del puesto en orden.,38,50,06:00:00,14:00:00,2026-10-28,Monitoreo de cámaras y rondas
+677,0,Relevo recibido y entregado a tiempo.,46,28,06:00:00,14:00:00,2026-10-28,Monitoreo de cámaras y rondas
+678,0,,47,48,06:00:00,14:00:00,2026-10-28,Control de ingreso vehicular
+679,0,Entrega del puesto en orden.,14,25,07:00:00,19:00:00,2026-10-28,Monitoreo de cámaras y rondas
+680,0,Entrega del puesto en orden.,11,6,14:00:00,22:00:00,2026-10-28,Vigilancia de puesto fijo
+681,0,Turno cumplido sin novedades.,12,18,14:00:00,22:00:00,2026-10-28,Vigilancia de puesto fijo
+682,0,Turno cumplido sin novedades.,20,40,14:00:00,22:00:00,2026-10-28,Monitoreo de cámaras y rondas
+683,0,,22,19,14:00:00,22:00:00,2026-10-28,Vigilancia de puesto fijo
+684,0,Relevo recibido y entregado a tiempo.,28,45,14:00:00,22:00:00,2026-10-28,Control de acceso y rondas
+685,0,Turno cumplido sin novedades.,1,21,06:00:00,14:00:00,2026-10-29,Control de ingreso vehicular
+686,0,Entrega del puesto en orden.,9,40,06:00:00,14:00:00,2026-10-29,Vigilancia de puesto fijo
+687,0,Relevo recibido y entregado a tiempo.,19,30,06:00:00,14:00:00,2026-10-29,Control de acceso y rondas
+688,0,Relevo recibido y entregado a tiempo.,44,18,06:00:00,14:00:00,2026-10-29,Custodia de instalaciones
+689,0,Entrega del puesto en orden.,46,28,06:00:00,14:00:00,2026-10-29,Custodia de instalaciones
+690,0,,49,9,06:00:00,14:00:00,2026-10-29,Custodia de instalaciones
+691,0,Relevo recibido y entregado a tiempo.,14,25,07:00:00,19:00:00,2026-10-29,Control de ingreso vehicular
+692,0,Entrega del puesto en orden.,8,41,14:00:00,22:00:00,2026-10-29,Monitoreo de cámaras y rondas
+693,0,Turno cumplido sin novedades.,12,18,14:00:00,22:00:00,2026-10-29,Monitoreo de cámaras y rondas
+694,0,,18,2,14:00:00,22:00:00,2026-10-29,Control de ingreso vehicular
+695,0,Entrega del puesto en orden.,40,25,14:00:00,22:00:00,2026-10-29,Control de acceso y rondas
+696,0,,3,48,06:00:00,14:00:00,2026-10-30,Custodia de instalaciones
+697,0,Turno cumplido sin novedades.,9,40,06:00:00,14:00:00,2026-10-30,Control de acceso y rondas
+698,0,,32,6,06:00:00,14:00:00,2026-10-30,Control de acceso y rondas
+699,0,Turno cumplido sin novedades.,43,31,06:00:00,14:00:00,2026-10-30,Monitoreo de cámaras y rondas
+700,0,Turno cumplido sin novedades.,41,14,14:00:00,22:00:00,2026-10-30,Control de acceso y rondas
+701,0,Entrega del puesto en orden.,9,36,06:00:00,14:00:00,2026-10-31,Monitoreo de cámaras y rondas
+702,0,Relevo recibido y entregado a tiempo.,32,24,06:00:00,14:00:00,2026-10-31,Custodia de instalaciones
+703,0,,42,23,06:00:00,14:00:00,2026-10-31,Control de ingreso vehicular
+704,0,Relevo recibido y entregado a tiempo.,43,31,06:00:00,14:00:00,2026-10-31,Vigilancia de puesto fijo
+705,0,,33,11,07:00:00,19:00:00,2026-10-31,Control de ingreso vehicular
+706,0,Entrega del puesto en orden.,35,46,07:00:00,19:00:00,2026-10-31,Vigilancia de puesto fijo
+707,0,Entrega del puesto en orden.,39,37,07:00:00,19:00:00,2026-10-31,Control de ingreso vehicular
+708,0,Relevo recibido y entregado a tiempo.,11,29,14:00:00,22:00:00,2026-10-31,Control de acceso y rondas
+709,0,Entrega del puesto en orden.,18,2,14:00:00,22:00:00,2026-10-31,Control de acceso y rondas
+710,0,Turno cumplido sin novedades.,22,19,14:00:00,22:00:00,2026-10-31,Monitoreo de cámaras y rondas
+711,0,Relevo recibido y entregado a tiempo.,19,35,06:00:00,14:00:00,2026-11-01,Vigilancia de puesto fijo
+712,0,,24,38,06:00:00,14:00:00,2026-11-01,Vigilancia de puesto fijo
+713,0,Turno cumplido sin novedades.,27,46,06:00:00,14:00:00,2026-11-01,Control de ingreso vehicular
+714,0,Turno cumplido sin novedades.,42,28,06:00:00,14:00:00,2026-11-01,Monitoreo de cámaras y rondas
+715,0,Turno cumplido sin novedades.,44,32,06:00:00,14:00:00,2026-11-01,Vigilancia de puesto fijo
+716,0,Turno cumplido sin novedades.,47,23,06:00:00,14:00:00,2026-11-01,Control de ingreso vehicular
+717,0,,49,9,06:00:00,14:00:00,2026-11-01,Vigilancia de puesto fijo
+718,0,,10,20,07:00:00,19:00:00,2026-11-01,Control de acceso y rondas
+719,0,,21,37,07:00:00,19:00:00,2026-11-01,Vigilancia de puesto fijo
+720,0,Relevo recibido y entregado a tiempo.,34,2,07:00:00,19:00:00,2026-11-01,Control de acceso y rondas
+721,0,,35,46,07:00:00,19:00:00,2026-11-01,Control de ingreso vehicular
+722,0,Entrega del puesto en orden.,8,36,14:00:00,22:00:00,2026-11-01,Control de ingreso vehicular
+723,0,Relevo recibido y entregado a tiempo.,22,31,14:00:00,22:00:00,2026-11-01,Monitoreo de cámaras y rondas
+724,0,,41,14,14:00:00,22:00:00,2026-11-01,Control de acceso y rondas
+725,0,,3,48,06:00:00,14:00:00,2026-11-02,Control de acceso y rondas
+726,0,Entrega del puesto en orden.,4,46,07:00:00,19:00:00,2026-11-02,Custodia de instalaciones
+727,0,,36,24,07:00:00,19:00:00,2026-11-02,Control de acceso y rondas
+728,0,,18,2,14:00:00,22:00:00,2026-11-02,Monitoreo de cámaras y rondas
+729,0,Turno cumplido sin novedades.,17,25,06:00:00,14:00:00,2026-11-03,Control de acceso y rondas
+730,0,Turno cumplido sin novedades.,26,32,06:00:00,14:00:00,2026-11-03,Control de acceso y rondas
+731,0,Relevo recibido y entregado a tiempo.,27,46,06:00:00,14:00:00,2026-11-03,Control de acceso y rondas
+732,0,Turno cumplido sin novedades.,43,31,06:00:00,14:00:00,2026-11-03,Custodia de instalaciones
+733,0,Entrega del puesto en orden.,44,32,06:00:00,14:00:00,2026-11-03,Control de acceso y rondas
+734,0,Entrega del puesto en orden.,13,7,07:00:00,19:00:00,2026-11-03,Control de ingreso vehicular
+735,0,,14,2,07:00:00,19:00:00,2026-11-03,Control de ingreso vehicular
+736,0,,12,33,14:00:00,22:00:00,2026-11-03,Control de acceso y rondas
+737,0,,18,2,14:00:00,22:00:00,2026-11-03,Vigilancia de puesto fijo
+738,0,Relevo recibido y entregado a tiempo.,31,28,14:00:00,22:00:00,2026-11-03,Control de ingreso vehicular
+739,1,,3,20,06:00:00,14:00:00,2026-11-04,Control de acceso y rondas
+740,1,,19,30,06:00:00,14:00:00,2026-11-04,Vigilancia de puesto fijo
+741,1,,23,46,06:00:00,14:00:00,2026-11-04,Monitoreo de cámaras y rondas
+742,1,,24,38,06:00:00,14:00:00,2026-11-04,Control de acceso y rondas
+743,1,,32,24,06:00:00,14:00:00,2026-11-04,Custodia de instalaciones
+744,1,,38,33,06:00:00,14:00:00,2026-11-04,Control de acceso y rondas
+745,1,,42,28,06:00:00,14:00:00,2026-11-04,Monitoreo de cámaras y rondas
+746,1,,49,9,06:00:00,14:00:00,2026-11-04,Vigilancia de puesto fijo
+747,1,,2,1,07:00:00,19:00:00,2026-11-04,Custodia de instalaciones
+748,1,,13,14,07:00:00,19:00:00,2026-11-04,Control de ingreso vehicular
+749,1,,14,2,07:00:00,19:00:00,2026-11-04,Control de ingreso vehicular
+750,1,,35,40,07:00:00,19:00:00,2026-11-04,Monitoreo de cámaras y rondas
+751,1,,36,24,07:00:00,19:00:00,2026-11-04,Control de ingreso vehicular
+752,1,,11,29,14:00:00,22:00:00,2026-11-04,Monitoreo de cámaras y rondas
+753,1,,16,46,14:00:00,22:00:00,2026-11-04,Control de ingreso vehicular
+754,1,,28,20,14:00:00,22:00:00,2026-11-04,Vigilancia de puesto fijo
+755,1,,17,2,06:00:00,14:00:00,2026-11-05,Vigilancia de puesto fijo
+756,1,,43,37,06:00:00,14:00:00,2026-11-05,Control de ingreso vehicular
+757,1,,45,18,06:00:00,14:00:00,2026-11-05,Control de acceso y rondas
+758,1,,47,23,06:00:00,14:00:00,2026-11-05,Custodia de instalaciones
+759,1,,50,48,06:00:00,14:00:00,2026-11-05,Custodia de instalaciones
+760,1,,14,2,07:00:00,19:00:00,2026-11-05,Control de acceso y rondas
+761,1,,11,29,14:00:00,22:00:00,2026-11-05,Vigilancia de puesto fijo
+762,1,,20,40,14:00:00,22:00:00,2026-11-05,Monitoreo de cámaras y rondas
+763,1,,22,19,14:00:00,22:00:00,2026-11-05,Custodia de instalaciones
+764,1,,24,31,06:00:00,14:00:00,2026-11-06,Custodia de instalaciones
+765,1,,32,42,06:00:00,14:00:00,2026-11-06,Vigilancia de puesto fijo
+766,1,,42,40,06:00:00,14:00:00,2026-11-06,Custodia de instalaciones
+767,1,,44,18,06:00:00,14:00:00,2026-11-06,Control de ingreso vehicular
+768,1,,49,9,06:00:00,14:00:00,2026-11-06,Monitoreo de cámaras y rondas
+769,1,,2,1,07:00:00,19:00:00,2026-11-06,Monitoreo de cámaras y rondas
+770,1,,39,32,07:00:00,19:00:00,2026-11-06,Monitoreo de cámaras y rondas
+771,1,,28,45,14:00:00,22:00:00,2026-11-06,Monitoreo de cámaras y rondas
+772,1,,17,2,06:00:00,14:00:00,2026-11-07,Custodia de instalaciones
+773,1,,19,30,06:00:00,14:00:00,2026-11-07,Control de ingreso vehicular
+774,1,,24,43,06:00:00,14:00:00,2026-11-07,Control de ingreso vehicular
+775,1,,26,32,06:00:00,14:00:00,2026-11-07,Vigilancia de puesto fijo
+776,1,,44,32,06:00:00,14:00:00,2026-11-07,Control de acceso y rondas
+777,1,,46,28,06:00:00,14:00:00,2026-11-07,Control de ingreso vehicular
+778,1,,49,33,06:00:00,14:00:00,2026-11-07,Custodia de instalaciones
+779,1,,6,20,07:00:00,19:00:00,2026-11-07,Custodia de instalaciones
+780,1,,10,20,07:00:00,19:00:00,2026-11-07,Control de ingreso vehicular
+781,1,,13,7,07:00:00,19:00:00,2026-11-07,Vigilancia de puesto fijo
+782,1,,14,2,07:00:00,19:00:00,2026-11-07,Monitoreo de cámaras y rondas
+783,1,,36,24,07:00:00,19:00:00,2026-11-07,Control de ingreso vehicular
+784,1,,12,27,14:00:00,22:00:00,2026-11-07,Vigilancia de puesto fijo
+785,1,,16,46,14:00:00,22:00:00,2026-11-07,Monitoreo de cámaras y rondas
+786,1,,20,20,14:00:00,22:00:00,2026-11-07,Control de ingreso vehicular
+787,1,,40,25,14:00:00,22:00:00,2026-11-07,Custodia de instalaciones
+788,1,,48,19,14:00:00,22:00:00,2026-11-07,Monitoreo de cámaras y rondas
+789,1,,15,27,06:00:00,14:00:00,2026-11-08,Custodia de instalaciones
+790,1,,23,46,06:00:00,14:00:00,2026-11-08,Monitoreo de cámaras y rondas
+791,1,,44,32,06:00:00,14:00:00,2026-11-08,Monitoreo de cámaras y rondas
+792,1,,46,37,06:00:00,14:00:00,2026-11-08,Control de acceso y rondas
+793,1,,49,33,06:00:00,14:00:00,2026-11-08,Custodia de instalaciones
+794,1,,34,10,07:00:00,19:00:00,2026-11-08,Monitoreo de cámaras y rondas
+795,1,,8,36,14:00:00,22:00:00,2026-11-08,Custodia de instalaciones
+796,1,,22,21,14:00:00,22:00:00,2026-11-08,Custodia de instalaciones
+797,1,,28,9,14:00:00,22:00:00,2026-11-08,Monitoreo de cámaras y rondas
+798,1,,40,25,14:00:00,22:00:00,2026-11-08,Monitoreo de cámaras y rondas
+799,1,,1,21,06:00:00,14:00:00,2026-11-09,Monitoreo de cámaras y rondas
+800,1,,26,32,06:00:00,14:00:00,2026-11-09,Control de acceso y rondas
+801,1,,45,18,06:00:00,14:00:00,2026-11-09,Custodia de instalaciones
+802,1,,46,28,06:00:00,14:00:00,2026-11-09,Monitoreo de cámaras y rondas
+803,1,,21,37,07:00:00,19:00:00,2026-11-09,Custodia de instalaciones
+804,1,,11,29,14:00:00,22:00:00,2026-11-09,Control de acceso y rondas
+805,1,,15,9,06:00:00,14:00:00,2026-11-10,Monitoreo de cámaras y rondas
+806,1,,23,46,06:00:00,14:00:00,2026-11-10,Monitoreo de cámaras y rondas
+807,1,,38,50,06:00:00,14:00:00,2026-11-10,Control de ingreso vehicular
+808,1,,43,31,06:00:00,14:00:00,2026-11-10,Vigilancia de puesto fijo
+809,1,,44,32,06:00:00,14:00:00,2026-11-10,Monitoreo de cámaras y rondas
+810,1,,45,18,06:00:00,14:00:00,2026-11-10,Control de acceso y rondas
+811,1,,34,10,07:00:00,19:00:00,2026-11-10,Monitoreo de cámaras y rondas
+812,1,,8,41,14:00:00,22:00:00,2026-11-10,Monitoreo de cámaras y rondas
+813,1,,31,11,14:00:00,22:00:00,2026-11-10,Vigilancia de puesto fijo
+814,1,,48,20,14:00:00,22:00:00,2026-11-10,Vigilancia de puesto fijo
+815,1,,38,33,06:00:00,14:00:00,2026-11-11,Monitoreo de cámaras y rondas
+816,1,,46,28,06:00:00,14:00:00,2026-11-11,Vigilancia de puesto fijo
+817,1,,35,40,07:00:00,19:00:00,2026-11-11,Control de acceso y rondas
+818,1,,1,8,06:00:00,14:00:00,2026-11-12,Vigilancia de puesto fijo
+819,1,,23,46,06:00:00,14:00:00,2026-11-12,Control de acceso y rondas
+820,1,,47,23,06:00:00,14:00:00,2026-11-12,Monitoreo de cámaras y rondas
+821,1,,50,48,06:00:00,14:00:00,2026-11-12,Monitoreo de cámaras y rondas
+822,1,,2,1,07:00:00,19:00:00,2026-11-12,Monitoreo de cámaras y rondas
+823,1,,33,11,07:00:00,19:00:00,2026-11-12,Monitoreo de cámaras y rondas
+824,1,,35,46,07:00:00,19:00:00,2026-11-12,Custodia de instalaciones
+825,1,,36,24,07:00:00,19:00:00,2026-11-12,Control de acceso y rondas
+826,1,,39,32,07:00:00,19:00:00,2026-11-12,Monitoreo de cámaras y rondas
+827,1,,16,46,14:00:00,22:00:00,2026-11-12,Vigilancia de puesto fijo
+828,1,,22,31,14:00:00,22:00:00,2026-11-12,Control de acceso y rondas
+829,1,,28,9,14:00:00,22:00:00,2026-11-12,Custodia de instalaciones
+830,1,,41,14,14:00:00,22:00:00,2026-11-12,Monitoreo de cámaras y rondas
+831,1,,1,21,06:00:00,14:00:00,2026-11-13,Monitoreo de cámaras y rondas
+832,1,,17,25,06:00:00,14:00:00,2026-11-13,Custodia de instalaciones
+833,1,,32,6,06:00:00,14:00:00,2026-11-13,Monitoreo de cámaras y rondas
+834,1,,43,37,06:00:00,14:00:00,2026-11-13,Control de ingreso vehicular
+835,1,,45,18,06:00:00,14:00:00,2026-11-13,Custodia de instalaciones
+836,1,,39,32,07:00:00,19:00:00,2026-11-13,Custodia de instalaciones
+837,1,,16,46,14:00:00,22:00:00,2026-11-13,Vigilancia de puesto fijo
+838,1,,48,20,14:00:00,22:00:00,2026-11-13,Vigilancia de puesto fijo
+839,1,,1,21,06:00:00,14:00:00,2026-11-14,Custodia de instalaciones
+840,1,,17,2,06:00:00,14:00:00,2026-11-14,Monitoreo de cámaras y rondas
+841,1,,26,6,06:00:00,14:00:00,2026-11-14,Monitoreo de cámaras y rondas
+842,1,,29,19,06:00:00,14:00:00,2026-11-14,Control de acceso y rondas
+843,1,,42,23,06:00:00,14:00:00,2026-11-14,Control de acceso y rondas
+844,1,,45,18,06:00:00,14:00:00,2026-11-14,Custodia de instalaciones
+845,1,,50,48,06:00:00,14:00:00,2026-11-14,Vigilancia de puesto fijo
+846,1,,2,12,07:00:00,19:00:00,2026-11-14,Vigilancia de puesto fijo
+847,1,,21,37,07:00:00,19:00:00,2026-11-14,Control de ingreso vehicular
+848,1,,39,37,07:00:00,19:00:00,2026-11-14,Custodia de instalaciones
+849,1,,8,36,14:00:00,22:00:00,2026-11-14,Monitoreo de cámaras y rondas
+850,1,,16,46,14:00:00,22:00:00,2026-11-14,Control de ingreso vehicular
+851,1,,28,9,14:00:00,22:00:00,2026-11-14,Custodia de instalaciones
+852,1,,41,14,14:00:00,22:00:00,2026-11-14,Custodia de instalaciones
+853,1,,3,48,06:00:00,14:00:00,2026-11-15,Control de ingreso vehicular
+854,1,,27,5,06:00:00,14:00:00,2026-11-15,Control de ingreso vehicular
+855,1,,29,19,06:00:00,14:00:00,2026-11-15,Control de ingreso vehicular
+856,1,,2,40,07:00:00,19:00:00,2026-11-15,Custodia de instalaciones
+857,1,,13,25,07:00:00,19:00:00,2026-11-15,Custodia de instalaciones
+858,1,,14,25,07:00:00,19:00:00,2026-11-15,Control de ingreso vehicular
+859,1,,34,10,07:00:00,19:00:00,2026-11-15,Control de ingreso vehicular
+860,1,,36,42,07:00:00,19:00:00,2026-11-15,Control de acceso y rondas
+861,1,,40,41,14:00:00,22:00:00,2026-11-15,Custodia de instalaciones
+862,1,,1,21,06:00:00,14:00:00,2026-11-16,Vigilancia de puesto fijo
+863,1,,17,2,06:00:00,14:00:00,2026-11-16,Control de ingreso vehicular
+864,1,,27,46,06:00:00,14:00:00,2026-11-16,Control de acceso y rondas
+865,1,,29,19,06:00:00,14:00:00,2026-11-16,Vigilancia de puesto fijo
+866,1,,16,46,14:00:00,22:00:00,2026-11-16,Control de ingreso vehicular
+867,1,,18,2,14:00:00,22:00:00,2026-11-16,Custodia de instalaciones
+868,1,,31,28,14:00:00,22:00:00,2026-11-16,Custodia de instalaciones
+869,1,,41,14,14:00:00,22:00:00,2026-11-16,Vigilancia de puesto fijo
+870,1,,32,42,06:00:00,14:00:00,2026-11-17,Monitoreo de cámaras y rondas
+871,1,,38,33,06:00:00,14:00:00,2026-11-17,Vigilancia de puesto fijo
+872,1,,2,40,07:00:00,19:00:00,2026-11-17,Vigilancia de puesto fijo
+873,1,,10,20,07:00:00,19:00:00,2026-11-17,Custodia de instalaciones
+874,1,,13,7,07:00:00,19:00:00,2026-11-17,Vigilancia de puesto fijo
+875,1,,11,6,14:00:00,22:00:00,2026-11-17,Custodia de instalaciones
+876,1,,12,18,14:00:00,22:00:00,2026-11-17,Monitoreo de cámaras y rondas
+877,1,,31,28,14:00:00,22:00:00,2026-11-17,Vigilancia de puesto fijo
+878,1,,19,35,06:00:00,14:00:00,2026-11-18,Custodia de instalaciones
+879,1,,29,19,06:00:00,14:00:00,2026-11-18,Custodia de instalaciones
+880,1,,2,12,07:00:00,19:00:00,2026-11-18,Control de ingreso vehicular
+881,1,,33,28,07:00:00,19:00:00,2026-11-18,Control de ingreso vehicular
+882,1,,36,24,07:00:00,19:00:00,2026-11-18,Custodia de instalaciones
+883,1,,16,46,14:00:00,22:00:00,2026-11-18,Vigilancia de puesto fijo
+884,1,,9,36,06:00:00,14:00:00,2026-11-19,Control de acceso y rondas
+885,1,,15,9,06:00:00,14:00:00,2026-11-19,Custodia de instalaciones
+886,1,,29,19,06:00:00,14:00:00,2026-11-19,Custodia de instalaciones
+887,1,,50,37,06:00:00,14:00:00,2026-11-19,Vigilancia de puesto fijo
+888,1,,21,37,07:00:00,19:00:00,2026-11-19,Vigilancia de puesto fijo
+889,1,,33,50,07:00:00,19:00:00,2026-11-19,Monitoreo de cámaras y rondas
+890,1,,36,42,07:00:00,19:00:00,2026-11-19,Vigilancia de puesto fijo
+891,1,,11,29,14:00:00,22:00:00,2026-11-19,Control de acceso y rondas
+892,1,,16,46,14:00:00,22:00:00,2026-11-19,Custodia de instalaciones
+893,1,,22,19,14:00:00,22:00:00,2026-11-19,Monitoreo de cámaras y rondas
+894,1,,48,19,14:00:00,22:00:00,2026-11-19,Control de ingreso vehicular
+895,1,,9,33,06:00:00,14:00:00,2026-11-20,Vigilancia de puesto fijo
+896,1,,15,9,06:00:00,14:00:00,2026-11-20,Control de ingreso vehicular
+897,1,,29,19,06:00:00,14:00:00,2026-11-20,Custodia de instalaciones
+898,1,,45,29,06:00:00,14:00:00,2026-11-20,Control de acceso y rondas
+899,1,,47,23,06:00:00,14:00:00,2026-11-20,Custodia de instalaciones
+900,1,,10,20,07:00:00,19:00:00,2026-11-20,Custodia de instalaciones
+901,1,,35,40,07:00:00,19:00:00,2026-11-20,Custodia de instalaciones
+902,1,,39,37,07:00:00,19:00:00,2026-11-20,Monitoreo de cámaras y rondas
+903,1,,11,6,14:00:00,22:00:00,2026-11-20,Monitoreo de cámaras y rondas
+904,1,,12,18,14:00:00,22:00:00,2026-11-20,Custodia de instalaciones
+905,1,,18,2,14:00:00,22:00:00,2026-11-20,Control de ingreso vehicular
+906,1,,28,20,14:00:00,22:00:00,2026-11-20,Control de ingreso vehicular
+907,1,,41,14,14:00:00,22:00:00,2026-11-20,Control de acceso y rondas
+908,1,,1,21,06:00:00,14:00:00,2026-11-21,Custodia de instalaciones
+909,1,,9,36,06:00:00,14:00:00,2026-11-21,Control de ingreso vehicular
+910,1,,23,46,06:00:00,14:00:00,2026-11-21,Control de acceso y rondas
+911,1,,24,43,06:00:00,14:00:00,2026-11-21,Monitoreo de cámaras y rondas
+912,1,,27,5,06:00:00,14:00:00,2026-11-21,Control de ingreso vehicular
+913,1,,2,40,07:00:00,19:00:00,2026-11-21,Vigilancia de puesto fijo
+914,1,,4,46,07:00:00,19:00:00,2026-11-21,Custodia de instalaciones
+915,1,,10,20,07:00:00,19:00:00,2026-11-21,Control de ingreso vehicular
+916,1,,33,50,07:00:00,19:00:00,2026-11-21,Control de acceso y rondas
+917,1,,35,46,07:00:00,19:00:00,2026-11-21,Monitoreo de cámaras y rondas
+918,1,,39,31,07:00:00,19:00:00,2026-11-21,Control de acceso y rondas
+919,1,,12,18,14:00:00,22:00:00,2026-11-21,Vigilancia de puesto fijo
+920,1,,28,20,14:00:00,22:00:00,2026-11-21,Custodia de instalaciones
+921,1,,41,14,14:00:00,22:00:00,2026-11-21,Custodia de instalaciones
+922,1,,3,48,06:00:00,14:00:00,2026-11-22,Vigilancia de puesto fijo
+923,1,,24,31,06:00:00,14:00:00,2026-11-22,Control de ingreso vehicular
+924,1,,27,46,06:00:00,14:00:00,2026-11-22,Monitoreo de cámaras y rondas
+925,1,,38,31,06:00:00,14:00:00,2026-11-22,Custodia de instalaciones
+926,1,,49,33,06:00:00,14:00:00,2026-11-22,Vigilancia de puesto fijo
+927,1,,6,20,07:00:00,19:00:00,2026-11-22,Control de ingreso vehicular
+928,1,,14,2,07:00:00,19:00:00,2026-11-22,Monitoreo de cámaras y rondas
+929,1,,21,37,07:00:00,19:00:00,2026-11-22,Control de acceso y rondas
+930,1,,39,37,07:00:00,19:00:00,2026-11-22,Control de acceso y rondas
+931,1,,41,14,14:00:00,22:00:00,2026-11-22,Control de acceso y rondas
+932,1,,24,38,06:00:00,14:00:00,2026-11-23,Vigilancia de puesto fijo
+933,1,,32,42,06:00:00,14:00:00,2026-11-23,Vigilancia de puesto fijo
+934,1,,42,23,06:00:00,14:00:00,2026-11-23,Custodia de instalaciones
+935,1,,4,46,07:00:00,19:00:00,2026-11-23,Vigilancia de puesto fijo
+936,1,,10,20,07:00:00,19:00:00,2026-11-23,Monitoreo de cámaras y rondas
+937,1,,21,37,07:00:00,19:00:00,2026-11-23,Monitoreo de cámaras y rondas
+938,1,,33,11,07:00:00,19:00:00,2026-11-23,Monitoreo de cámaras y rondas
+939,1,,34,10,07:00:00,19:00:00,2026-11-23,Control de acceso y rondas
+940,1,,28,20,14:00:00,22:00:00,2026-11-23,Monitoreo de cámaras y rondas
+941,1,,41,14,14:00:00,22:00:00,2026-11-23,Control de ingreso vehicular
+942,1,,48,26,14:00:00,22:00:00,2026-11-23,Monitoreo de cámaras y rondas
+943,1,,19,35,06:00:00,14:00:00,2026-11-24,Control de acceso y rondas
+944,1,,29,19,06:00:00,14:00:00,2026-11-24,Custodia de instalaciones
+945,1,,50,14,06:00:00,14:00:00,2026-11-24,Monitoreo de cámaras y rondas
+946,1,,4,29,07:00:00,19:00:00,2026-11-24,Control de ingreso vehicular
+947,1,,10,20,07:00:00,19:00:00,2026-11-24,Control de acceso y rondas
+948,1,,39,32,07:00:00,19:00:00,2026-11-24,Vigilancia de puesto fijo
+949,1,,8,31,14:00:00,22:00:00,2026-11-24,Vigilancia de puesto fijo
+950,1,,31,48,14:00:00,22:00:00,2026-11-24,Monitoreo de cámaras y rondas
+951,1,,1,21,06:00:00,14:00:00,2026-11-25,Control de acceso y rondas
+952,1,,3,38,06:00:00,14:00:00,2026-11-25,Control de ingreso vehicular
+953,1,,44,31,06:00:00,14:00:00,2026-11-25,Vigilancia de puesto fijo
+954,1,,8,41,14:00:00,22:00:00,2026-11-25,Custodia de instalaciones
+955,1,,12,18,14:00:00,22:00:00,2026-11-25,Monitoreo de cámaras y rondas
+956,1,,20,40,14:00:00,22:00:00,2026-11-25,Monitoreo de cámaras y rondas
+957,1,,3,38,06:00:00,14:00:00,2026-11-26,Control de ingreso vehicular
+958,1,,32,42,06:00:00,14:00:00,2026-11-26,Custodia de instalaciones
+959,1,,42,40,06:00:00,14:00:00,2026-11-26,Monitoreo de cámaras y rondas
+960,1,,2,1,07:00:00,19:00:00,2026-11-26,Monitoreo de cámaras y rondas
+961,1,,6,20,07:00:00,19:00:00,2026-11-26,Monitoreo de cámaras y rondas
+962,1,,13,7,07:00:00,19:00:00,2026-11-26,Vigilancia de puesto fijo
+963,1,,14,25,07:00:00,19:00:00,2026-11-26,Monitoreo de cámaras y rondas
+964,1,,39,31,07:00:00,19:00:00,2026-11-26,Monitoreo de cámaras y rondas
+965,1,,16,46,14:00:00,22:00:00,2026-11-26,Monitoreo de cámaras y rondas
+966,1,,22,31,14:00:00,22:00:00,2026-11-26,Vigilancia de puesto fijo
+967,1,,17,25,06:00:00,14:00:00,2026-11-27,Vigilancia de puesto fijo
+968,1,,29,19,06:00:00,14:00:00,2026-11-27,Custodia de instalaciones
+969,1,,38,33,06:00:00,14:00:00,2026-11-27,Custodia de instalaciones
+970,1,,4,19,07:00:00,19:00:00,2026-11-27,Custodia de instalaciones
+971,1,,36,42,07:00:00,19:00:00,2026-11-27,Control de ingreso vehicular
+972,1,,12,27,14:00:00,22:00:00,2026-11-27,Control de ingreso vehicular
+973,1,,18,2,14:00:00,22:00:00,2026-11-27,Monitoreo de cámaras y rondas
+974,1,,31,28,14:00:00,22:00:00,2026-11-27,Control de acceso y rondas
+975,1,,19,30,06:00:00,14:00:00,2026-11-28,Control de ingreso vehicular
+976,1,,24,38,06:00:00,14:00:00,2026-11-28,Control de ingreso vehicular
+977,1,,50,48,06:00:00,14:00:00,2026-11-28,Control de acceso y rondas
+978,1,,2,40,07:00:00,19:00:00,2026-11-28,Control de ingreso vehicular
+979,1,,4,46,07:00:00,19:00:00,2026-11-28,Control de ingreso vehicular
+980,1,,20,40,14:00:00,22:00:00,2026-11-28,Custodia de instalaciones
+981,1,,22,19,14:00:00,22:00:00,2026-11-28,Control de acceso y rondas
+982,1,,3,20,06:00:00,14:00:00,2026-11-29,Monitoreo de cámaras y rondas
+983,1,,42,28,06:00:00,14:00:00,2026-11-29,Control de ingreso vehicular
+984,1,,43,31,06:00:00,14:00:00,2026-11-29,Control de ingreso vehicular
+985,1,,45,18,06:00:00,14:00:00,2026-11-29,Custodia de instalaciones
+986,1,,46,28,06:00:00,14:00:00,2026-11-29,Custodia de instalaciones
+987,1,,47,43,06:00:00,14:00:00,2026-11-29,Vigilancia de puesto fijo
+988,1,,50,14,06:00:00,14:00:00,2026-11-29,Monitoreo de cámaras y rondas
+989,1,,6,20,07:00:00,19:00:00,2026-11-29,Monitoreo de cámaras y rondas
+990,1,,10,20,07:00:00,19:00:00,2026-11-29,Control de acceso y rondas
+991,1,,20,20,14:00:00,22:00:00,2026-11-29,Vigilancia de puesto fijo
+992,1,,28,20,14:00:00,22:00:00,2026-11-29,Custodia de instalaciones
+993,1,,1,21,06:00:00,14:00:00,2026-11-30,Monitoreo de cámaras y rondas
+994,1,,17,2,06:00:00,14:00:00,2026-11-30,Vigilancia de puesto fijo
+995,1,,47,43,06:00:00,14:00:00,2026-11-30,Vigilancia de puesto fijo
+996,1,,21,37,07:00:00,19:00:00,2026-11-30,Monitoreo de cámaras y rondas
+997,1,,33,50,07:00:00,19:00:00,2026-11-30,Monitoreo de cámaras y rondas
+998,1,,34,10,07:00:00,19:00:00,2026-11-30,Vigilancia de puesto fijo
+999,1,,36,24,07:00:00,19:00:00,2026-11-30,Control de ingreso vehicular
+1000,1,,41,14,14:00:00,22:00:00,2026-11-30,Control de acceso y rondas
